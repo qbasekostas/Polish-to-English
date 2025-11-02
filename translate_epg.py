@@ -21,7 +21,7 @@ api_calls_made = 0
 translator = Translator()
 
 # --- Functions (η συνάρτηση μετάφρασης παραμένει η ίδια) ---
-def translate_text(text, target_lang='en', source_lang='bg'):
+def translate_text(text, target_lang='en', source_lang='pl'):
     global api_calls_made
     if not text or not text.strip(): return text
     if text in translation_cache: return translation_cache[text]
