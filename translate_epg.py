@@ -1,18 +1,19 @@
-# translate_epg.py (v6.1 - Final Filtered Edition)
+# translate_epg.py (v8 - Polish GZIP Edition)
 import requests
 import xml.etree.ElementTree as ET
 import time
 from googletrans import Translator
+import gzip # <-- 1. ΠΡΟΣΘΗΚΗ: Εισάγουμε τη βιβλιοθήκη για GZIP
 
 # --- Οριστική λίστα με τα Channel IDs που μας ενδιαφέρουν ---
-# Έχουν συμπεριληφθεί όλες οι παραλλαγές (με κενά και με τελείες)
 TARGET_CHANNELS = {
     "Sportklub HD.pl",
     "Sportklub.HD.pl"
 }
 # ----------------------------------------------------------------
 
-SOURCE_URL = "https://iptv-epg.org/files/epg-pl.xml"
+# ΑΛΛΑΓΗ: Βάζουμε το νέο URL που τελειώνει σε .gz
+SOURCE_URL = "https://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz"
 OUTPUT_FILE = "epg-en.xml"
 
 # --- Caching & Translator Initialization ---
@@ -47,26 +48,30 @@ def main():
     try:
         response = requests.get(SOURCE_URL)
         response.raise_for_status()
-        xml_content = response.content
+        
+        # --- 2. ΠΡΟΣΘΗΚΗ: Αποσυμπιέζουμε το περιεχόμενο .gz ---
+        xml_content = gzip.decompress(response.content)
+        # ---------------------------------------------------
+
     except requests.exceptions.RequestException as e:
         print(f"Failed to download EPG file: {e}")
+        return
+    except gzip.BadGzipFile:
+        print("Error: The downloaded file is not a valid GZIP file.")
         return
 
     print("Parsing original XML content...")
     parser = ET.XMLParser(encoding="utf-8")
     original_root = ET.fromstring(xml_content, parser=parser)
 
-    # Δημιουργούμε ένα νέο, άδειο XML για να βάλουμε μόνο τα δικά μας δεδομένα
     new_root = ET.Element('tv')
 
-    # 1. Βρίσκουμε και αντιγράφουμε μόνο τα <channel> tags που μας ενδιαφέρουν
     print(f"Filtering for target channels...")
     for channel in original_root.findall('channel'):
         if channel.get('id') in TARGET_CHANNELS:
             print(f"Found and added target channel: {channel.get('id')}")
             new_root.append(channel)
 
-    # 2. Βρίσκουμε, μεταφράζουμε και αντιγράφουμε μόνο τα <programme> tags που μας ενδιαφέρουν
     print("Filtering and translating programmes...")
     processed_count = 0
     for prog in original_root.findall('programme'):
