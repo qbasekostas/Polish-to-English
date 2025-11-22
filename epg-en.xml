@@ -1,46 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv><channel id="Sportklub.pl">
-    <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">Sportklub</display-name>
-  </channel>
-  <channel id="Sportklub.HD.pl">
+<tv><channel id="Sportklub.HD.pl">
     <url>http://www.tv.wp.pl</url>
     <display-name lang="pl">Sportklub HD</display-name>
   </channel>
-  <programme channel="Sportklub.HD.pl" start="20251120023500 -0600" stop="20251120053500 -0600">
-    <title lang="pl">Women's Soccer: National Women's Soccer League - Quarterfinal Match: Washington Spirit - Racing Louisville FC</title>
+  <channel id="Sportklub.pl">
+    <url>http://www.tv.wp.pl</url>
+    <display-name lang="pl">Sportklub</display-name>
+  </channel>
+  <programme channel="Sportklub.HD.pl" start="20251121003000 -0600" stop="20251121005500 -0600">
+    <title lang="pl">World of Freesports</title>
+    <desc lang="pl">Short reports from the most interesting events from the world of extreme sports.</desc>
+    <category lang="pl">magazyn sportowy</category>
   </programme>
-  <programme channel="Sportklub.HD.pl" start="20251120053500 -0600" stop="20251120075000 -0600">
-    <title lang="pl">Football: Slovenian league - match: NK Aluminij - NK Domzale</title>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20251120075000 -0600" stop="20251120101000 -0600">
-    <title lang="pl">Men's basketball: Spanish league - match: Joventut Badalona - Real Madrid</title>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20251120101000 -0600" stop="20251120132000 -0600">
-    <title lang="pl">Equestrian: World Cup competitions in Stuttgart</title>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20251120132000 -0600" stop="20251120141000 -0600">
-    <title lang="pl">Equestrian: World Cup competitions in Stuttgart - summary</title>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20251120141000 -0600" stop="20251120153000 -0600">
-    <title lang="pl">Equestrian: World Cup competitions in Toronto - summary</title>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20251120153000 -0600" stop="20251120155500 -0600">
+  <programme channel="Sportklub.HD.pl" start="20251121005500 -0600" stop="20251121011500 -0600">
     <title lang="pl">Fifth quarter</title>
     <desc lang="pl">A summary of the most interesting events of the last round in the Spanish basketball league, ACB.</desc>
     <category lang="pl">magazyn sportowy</category>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20251120155500 -0600" stop="20251120190000 -0600">
-    <title lang="pl">Women's Soccer: National Women's Soccer League - Quarterfinal Match: Kansas City - Gotham FC</title>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20251120190000 -0600" stop="20251120214000 -0600">
-    <title lang="pl">Men's basketball: Spanish league - match: Basquet Girona - Barca</title>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20251120214000 -0600" stop="20251120230000 -0600">
-    <title lang="pl">Equestrian: World Cup competitions in Toronto - summary</title>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20251120230000 -0600" stop="20251121011500 -0600">
-    <title lang="pl">Women's volleyball: Slovenian league - match: OTP Banka Branik Maribor - OK Formis</title>
   </programme>
   <programme channel="Sportklub.HD.pl" start="20251121011500 -0600" stop="20251121041000 -0600">
     <title lang="pl">Equestrian: World Cup competitions in Stuttgart</title>
@@ -135,7 +110,7 @@
     <title lang="pl">Sailing: SailGP in Sydney - Day 2</title>
   </programme>
   <programme channel="Sportklub.HD.pl" start="20251122190000 -0600" stop="20251122211500 -0600">
-    <title lang="pl">Women's soccer: National Women's Soccer League - final match</title>
+    <title lang="pl">Women's Soccer: National Women's Soccer League - Final Match</title>
   </programme>
   <programme channel="Sportklub.HD.pl" start="20251122211500 -0600" stop="20251122223000 -0600">
     <title lang="pl">Equestrian: World Cup competitions in Stuttgart - summary</title>
@@ -213,7 +188,7 @@
     <title lang="pl">Men's basketball: Spanish league - match: Unicaja Malaga - BAXI Manresa</title>
   </programme>
   <programme channel="Sportklub.HD.pl" start="20251124185500 -0600" stop="20251124211500 -0600">
-    <title lang="pl">Women's soccer: National Women's Soccer League - final match</title>
+    <title lang="pl">Women's Soccer: National Women's Soccer League - Final Match</title>
   </programme>
   <programme channel="Sportklub.HD.pl" start="20251124211500 -0600" stop="20251124220000 -0600">
     <title lang="pl">World of Freesports</title>
@@ -226,40 +201,53 @@
   <programme channel="Sportklub.HD.pl" start="20251124230000 -0600" stop="20251125010500 -0600">
     <title lang="pl">Men's basketball: Spanish league - match: Cazoo Baskonia Vitoria-Gasteiz - Surne Bilbao Basket</title>
   </programme>
-  <programme channel="Sportklub.pl" start="20251120023500 -0600" stop="20251120053500 -0600">
-    <title lang="pl">Women's Soccer: National Women's Soccer League - Quarterfinal Match: Washington Spirit - Racing Louisville FC</title>
+  <programme channel="Sportklub.HD.pl" start="20251125010500 -0600" stop="20251125032000 -0600">
+    <title lang="pl">Football: Greek League - match: Asteras Tripolis - Panetolikos GFS</title>
   </programme>
-  <programme channel="Sportklub.pl" start="20251120053500 -0600" stop="20251120075000 -0600">
-    <title lang="pl">Football: Slovenian league - match: NK Aluminij - NK Domzale</title>
+  <programme channel="Sportklub.HD.pl" start="20251125032000 -0600" stop="20251125052000 -0600">
+    <title lang="pl">Football: Slovenian League - match: NK Maribor - NK Olimpija Ljubljana</title>
   </programme>
-  <programme channel="Sportklub.pl" start="20251120075000 -0600" stop="20251120101000 -0600">
-    <title lang="pl">Men's basketball: Spanish league - match: Joventut Badalona - Real Madrid</title>
+  <programme channel="Sportklub.HD.pl" start="20251125052000 -0600" stop="20251125073000 -0600">
+    <title lang="pl">Men's basketball: Spanish league - match: CB Gran Canaria - Barca</title>
   </programme>
-  <programme channel="Sportklub.pl" start="20251120101000 -0600" stop="20251120132000 -0600">
-    <title lang="pl">Equestrian: World Cup competitions in Stuttgart</title>
+  <programme channel="Sportklub.HD.pl" start="20251125073000 -0600" stop="20251125093500 -0600">
+    <title lang="pl">Football: Greek League - match: MGS Panserraikos - Panathinaikos AO</title>
   </programme>
-  <programme channel="Sportklub.pl" start="20251120132000 -0600" stop="20251120141000 -0600">
-    <title lang="pl">Equestrian: World Cup competitions in Stuttgart - summary</title>
+  <programme channel="Sportklub.HD.pl" start="20251125093500 -0600" stop="20251125114000 -0600">
+    <title lang="pl">Football: Slovenian league - match: FC Koper - NK Aluminij</title>
   </programme>
-  <programme channel="Sportklub.pl" start="20251120141000 -0600" stop="20251120153000 -0600">
-    <title lang="pl">Equestrian: World Cup competitions in Toronto - summary</title>
-  </programme>
-  <programme channel="Sportklub.pl" start="20251120153000 -0600" stop="20251120155500 -0600">
+  <programme channel="Sportklub.HD.pl" start="20251125114000 -0600" stop="20251125120500 -0600">
     <title lang="pl">Fifth quarter</title>
     <desc lang="pl">A summary of the most interesting events of the last round in the Spanish basketball league, ACB.</desc>
     <category lang="pl">magazyn sportowy</category>
   </programme>
-  <programme channel="Sportklub.pl" start="20251120155500 -0600" stop="20251120190000 -0600">
-    <title lang="pl">Women's Soccer: National Women's Soccer League - Quarterfinal Match: Kansas City - Gotham FC</title>
+  <programme channel="Sportklub.HD.pl" start="20251125120500 -0600" stop="20251125150500 -0600">
+    <title lang="pl">Equestrian: World Cup competitions in Stuttgart</title>
   </programme>
-  <programme channel="Sportklub.pl" start="20251120190000 -0600" stop="20251120214000 -0600">
-    <title lang="pl">Men's basketball: Spanish league - match: Basquet Girona - Barca</title>
-  </programme>
-  <programme channel="Sportklub.pl" start="20251120214000 -0600" stop="20251120230000 -0600">
-    <title lang="pl">Equestrian: World Cup competitions in Toronto - summary</title>
-  </programme>
-  <programme channel="Sportklub.pl" start="20251120230000 -0600" stop="20251121011500 -0600">
+  <programme channel="Sportklub.HD.pl" start="20251125150500 -0600" stop="20251125171000 -0600">
     <title lang="pl">Women's volleyball: Slovenian league - match: OTP Banka Branik Maribor - OK Formis</title>
+  </programme>
+  <programme channel="Sportklub.HD.pl" start="20251125171000 -0600" stop="20251125192500 -0600">
+    <title lang="pl">Men's basketball: Spanish league - match: Barca - Cazoo Baskonia Vitoria-Gasteiz</title>
+  </programme>
+  <programme channel="Sportklub.HD.pl" start="20251125192500 -0600" stop="20251125213000 -0600">
+    <title lang="pl">Football: Slovenian league - match: NK Domzale - NK Celje</title>
+  </programme>
+  <programme channel="Sportklub.HD.pl" start="20251125213000 -0600" stop="20251125230000 -0600">
+    <title lang="pl">Equestrian: World Cup competitions in Oslo - summary</title>
+  </programme>
+  <programme channel="Sportklub.HD.pl" start="20251125230000 -0600" stop="20251126010500 -0600">
+    <title lang="pl">Men's basketball: Spanish league - match: Cazoo Baskonia Vitoria-Gasteiz - Surne Bilbao Basket</title>
+  </programme>
+  <programme channel="Sportklub.pl" start="20251121003000 -0600" stop="20251121005500 -0600">
+    <title lang="pl">World of Freesports</title>
+    <desc lang="pl">Short reports from the most interesting events from the world of extreme sports.</desc>
+    <category lang="pl">magazyn sportowy</category>
+  </programme>
+  <programme channel="Sportklub.pl" start="20251121005500 -0600" stop="20251121011500 -0600">
+    <title lang="pl">Fifth quarter</title>
+    <desc lang="pl">A summary of the most interesting events of the last round in the Spanish basketball league, ACB.</desc>
+    <category lang="pl">magazyn sportowy</category>
   </programme>
   <programme channel="Sportklub.pl" start="20251121011500 -0600" stop="20251121041000 -0600">
     <title lang="pl">Equestrian: World Cup competitions in Stuttgart</title>
@@ -354,7 +342,7 @@
     <title lang="pl">Sailing: SailGP in Sydney - Day 2</title>
   </programme>
   <programme channel="Sportklub.pl" start="20251122190000 -0600" stop="20251122211500 -0600">
-    <title lang="pl">Women's soccer: National Women's Soccer League - final match</title>
+    <title lang="pl">Women's Soccer: National Women's Soccer League - Final Match</title>
   </programme>
   <programme channel="Sportklub.pl" start="20251122211500 -0600" stop="20251122223000 -0600">
     <title lang="pl">Equestrian: World Cup competitions in Stuttgart - summary</title>
@@ -432,7 +420,7 @@
     <title lang="pl">Men's basketball: Spanish league - match: Unicaja Malaga - BAXI Manresa</title>
   </programme>
   <programme channel="Sportklub.pl" start="20251124185500 -0600" stop="20251124211500 -0600">
-    <title lang="pl">Women's soccer: National Women's Soccer League - final match</title>
+    <title lang="pl">Women's Soccer: National Women's Soccer League - Final Match</title>
   </programme>
   <programme channel="Sportklub.pl" start="20251124211500 -0600" stop="20251124220000 -0600">
     <title lang="pl">World of Freesports</title>
@@ -443,6 +431,44 @@
     <title lang="pl">Equestrian: World Cup competitions in Stuttgart - summary</title>
   </programme>
   <programme channel="Sportklub.pl" start="20251124230000 -0600" stop="20251125010500 -0600">
+    <title lang="pl">Men's basketball: Spanish league - match: Cazoo Baskonia Vitoria-Gasteiz - Surne Bilbao Basket</title>
+  </programme>
+  <programme channel="Sportklub.pl" start="20251125010500 -0600" stop="20251125032000 -0600">
+    <title lang="pl">Football: Greek League - match: Asteras Tripolis - Panetolikos GFS</title>
+  </programme>
+  <programme channel="Sportklub.pl" start="20251125032000 -0600" stop="20251125052000 -0600">
+    <title lang="pl">Football: Slovenian League - match: NK Maribor - NK Olimpija Ljubljana</title>
+  </programme>
+  <programme channel="Sportklub.pl" start="20251125052000 -0600" stop="20251125073000 -0600">
+    <title lang="pl">Men's basketball: Spanish league - match: CB Gran Canaria - Barca</title>
+  </programme>
+  <programme channel="Sportklub.pl" start="20251125073000 -0600" stop="20251125093500 -0600">
+    <title lang="pl">Football: Greek League - match: MGS Panserraikos - Panathinaikos AO</title>
+  </programme>
+  <programme channel="Sportklub.pl" start="20251125093500 -0600" stop="20251125114000 -0600">
+    <title lang="pl">Football: Slovenian league - match: FC Koper - NK Aluminij</title>
+  </programme>
+  <programme channel="Sportklub.pl" start="20251125114000 -0600" stop="20251125120500 -0600">
+    <title lang="pl">Fifth quarter</title>
+    <desc lang="pl">A summary of the most interesting events of the last round in the Spanish basketball league, ACB.</desc>
+    <category lang="pl">magazyn sportowy</category>
+  </programme>
+  <programme channel="Sportklub.pl" start="20251125120500 -0600" stop="20251125150500 -0600">
+    <title lang="pl">Equestrian: World Cup competitions in Stuttgart</title>
+  </programme>
+  <programme channel="Sportklub.pl" start="20251125150500 -0600" stop="20251125171000 -0600">
+    <title lang="pl">Women's volleyball: Slovenian league - match: OTP Banka Branik Maribor - OK Formis</title>
+  </programme>
+  <programme channel="Sportklub.pl" start="20251125171000 -0600" stop="20251125192500 -0600">
+    <title lang="pl">Men's basketball: Spanish league - match: Barca - Cazoo Baskonia Vitoria-Gasteiz</title>
+  </programme>
+  <programme channel="Sportklub.pl" start="20251125192500 -0600" stop="20251125213000 -0600">
+    <title lang="pl">Football: Slovenian league - match: NK Domzale - NK Celje</title>
+  </programme>
+  <programme channel="Sportklub.pl" start="20251125213000 -0600" stop="20251125230000 -0600">
+    <title lang="pl">Equestrian: World Cup competitions in Oslo - summary</title>
+  </programme>
+  <programme channel="Sportklub.pl" start="20251125230000 -0600" stop="20251126010500 -0600">
     <title lang="pl">Men's basketball: Spanish league - match: Cazoo Baskonia Vitoria-Gasteiz - Surne Bilbao Basket</title>
   </programme>
   </tv>
