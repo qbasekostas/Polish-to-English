@@ -9,7 +9,16 @@ import gzip # <-- 1. ΠΡΟΣΘΗΚΗ: Εισάγουμε τη βιβλιοθή�
 TARGET_CHANNELS = {
     "Sportklub HD.pl",
     "Sportklub.HD.pl",
-    "Sportklub.pl"
+    "Sportklub.pl",
+    "Polsat.Sport.pl",
+    "Polsat.Sport.Extra.HD.pl",
+    "Polsat.Sport.News.HD.pl",
+    "Polsat.Sport.Premium.1.pl",
+    "Polsat.Sport.Premium.2.pl",
+    "Polsat.Sport.Premium.3.pl",
+    "Polsat.Sport.Premium.4.pl",
+    "Polsat.Sport.Premium.5.pl",
+    "Polsat.Sport.Premium.6.pl"
 }
 # ----------------------------------------------------------------
 
