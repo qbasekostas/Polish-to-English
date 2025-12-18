@@ -14,6 +14,7 @@ TARGET_CHANNELS = {
     "Polsat.Sport.Extra.HD.pl",
     "Polsat.Sport.News.HD.pl",
     "Polsat.Sport.Premium.1.pl",
+    "Polsat.Sport.Fight.HD.pl",
     "Polsat.Sport.Premium.2.pl",
     "Polsat.Sport.Premium.3.pl",
     "Polsat.Sport.Premium.4.pl",
