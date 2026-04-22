@@ -1,11 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv><channel id="Polsat.Sport.Fight.HD.pl">
+<tv><channel id="Polsat.Sport.Premium.1.pl">
     <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">Polsat Sport Fight HD</display-name>
-  </channel>
-  <channel id="Sportklub.HD.pl">
-    <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">Sportklub HD</display-name>
+    <display-name lang="pl">Polsat Sport Premium 1</display-name>
   </channel>
   <channel id="Polsat.Sport.Premium.3.pl">
     <url>http://www.tv.wp.pl</url>
@@ -19,9 +15,29 @@
     <url>http://www.tv.wp.pl</url>
     <display-name lang="pl">Sportklub</display-name>
   </channel>
-  <channel id="Polsat.Sport.Premium.1.pl">
+  <channel id="Polsat.Sport.Premium.4.pl">
     <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">Polsat Sport Premium 1</display-name>
+    <display-name lang="pl">Polsat Sport Premium 4</display-name>
+  </channel>
+  <channel id="Sportklub.HD.pl">
+    <url>http://www.tv.wp.pl</url>
+    <display-name lang="pl">Sportklub HD</display-name>
+  </channel>
+  <channel id="Polsat.Sport.News.HD.pl">
+    <url>http://www.tv.wp.pl</url>
+    <display-name lang="pl">Polsat Sport News HD</display-name>
+  </channel>
+  <channel id="Polsat.Sport.Fight.HD.pl">
+    <url>http://www.tv.wp.pl</url>
+    <display-name lang="pl">Polsat Sport Fight HD</display-name>
+  </channel>
+  <channel id="Polsat.Sport.Premium.6.pl">
+    <url>http://www.tv.wp.pl</url>
+    <display-name lang="pl">Polsat Sport Premium 6</display-name>
+  </channel>
+  <channel id="Polsat.Sport.Extra.HD.pl">
+    <url>http://www.tv.wp.pl</url>
+    <display-name lang="pl">Polsat Sport Extra HD</display-name>
   </channel>
   <channel id="Polsat.Sport.Premium.2.pl">
     <url>http://www.tv.wp.pl</url>
@@ -31,83 +47,19 @@
     <url>http://www.tv.wp.pl</url>
     <display-name lang="pl">Polsat Sport Premium 5</display-name>
   </channel>
-  <channel id="Polsat.Sport.News.HD.pl">
-    <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">Polsat Sport News HD</display-name>
-  </channel>
-  <channel id="Polsat.Sport.Premium.6.pl">
-    <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">Polsat Sport Premium 6</display-name>
-  </channel>
-  <channel id="Polsat.Sport.Premium.4.pl">
-    <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">Polsat Sport Premium 4</display-name>
-  </channel>
-  <channel id="Polsat.Sport.Extra.HD.pl">
-    <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">Polsat Sport Extra HD</display-name>
-  </channel>
-  <programme channel="Sportklub.HD.pl" start="20260421012500 -0500" stop="20260421031500 -0500">
+  <programme channel="Sportklub.HD.pl" start="20260422010000 -0500" stop="20260422024500 -0500">
     <title lang="pl">Sailing: SailGP in Rio de Janeiro - day 1</title>
   </programme>
-  <programme channel="Sportklub.HD.pl" start="20260421031500 -0500" stop="20260421052000 -0500">
-    <title lang="pl">Football: Slovenian league - match: ND Primorje - FC Koper</title>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20260421052000 -0500" stop="20260421074000 -0500">
-    <title lang="pl">Men's basketball: Spanish league - match: Hiopos Lleida - Barca</title>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20260421074000 -0500" stop="20260421090000 -0500">
-    <title lang="pl">Equestrian: Longines FEI Jumping World Cup in Fort Worth - show jumping</title>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20260421090000 -0500" stop="20260421105000 -0500">
-    <title lang="pl">Football: Slovenian league - match: ND Primorje - FC Koper</title>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20260421105000 -0500" stop="20260421123500 -0500">
-    <title lang="pl">Sailing: SailGP in Rio de Janeiro - day 1</title>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20260421123500 -0500" stop="20260421130500 -0500">
+  <programme channel="Sportklub.HD.pl" start="20260422024500 -0500" stop="20260422030500 -0500">
     <title lang="pl">Fifth quarter</title>
     <desc lang="pl">A summary of the most interesting events of the last round in the Spanish basketball league, ACB.</desc>
     <category lang="pl">magazyn sportowy</category>
   </programme>
-  <programme channel="Sportklub.HD.pl" start="20260421130500 -0500" stop="20260421152000 -0500">
-    <title lang="pl">Football: Greek League - match: PAOK FC - Panathinaikos AO</title>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20260421152000 -0500" stop="20260421161500 -0500">
-    <title lang="pl">Pool billiards: Ekstraklasa</title>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20260421161500 -0500" stop="20260421180000 -0500">
-    <title lang="pl">Sailing: SailGP in Rio de Janeiro - day 1</title>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20260421180000 -0500" stop="20260421181500 -0500">
-    <title lang="pl">Fifth quarter</title>
-    <desc lang="pl">A summary of the most interesting events of the last round in the Spanish basketball league, ACB.</desc>
-    <category lang="pl">magazyn sportowy</category>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20260421181500 -0500" stop="20260421202000 -0500">
+  <programme channel="Sportklub.HD.pl" start="20260422030500 -0500" stop="20260422054500 -0500">
     <title lang="pl">Men's basketball: Spanish League - match: Joventut Badalona - Kosner Baskonia Vitoria-Gasteiz</title>
   </programme>
-  <programme channel="Sportklub.HD.pl" start="20260421202000 -0500" stop="20260421215500 -0500">
-    <title lang="pl">Sailing: SailGP in Rio de Janeiro - day 1</title>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20260421215500 -0500" stop="20260421230000 -0500">
-    <title lang="pl">Horse riding - show jumping</title>
-    <sub-title lang="pl">Longines FEI Jumping World Cup w Fort Worth</sub-title>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20260421230000 -0500" stop="20260422011500 -0500">
-    <title lang="pl">Football: Slovenian league - match: ND Primorje - FC Koper</title>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20260422011500 -0500" stop="20260422032500 -0500">
-    <title lang="pl">Sailing: SailGP in Rio de Janeiro - day 1</title>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20260422032500 -0500" stop="20260422042000 -0500">
-    <title lang="pl">Pool billiards: Ekstraklasa</title>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20260422042000 -0500" stop="20260422063000 -0500">
-    <title lang="pl">Football: Slovenian league - match: ND Primorje - FC Koper</title>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20260422063000 -0500" stop="20260422080000 -0500">
-    <title lang="pl">Men's basketball: Spanish League - match: Joventut Badalona - Kosner Baskonia Vitoria-Gasteiz</title>
+  <programme channel="Sportklub.HD.pl" start="20260422054500 -0500" stop="20260422080000 -0500">
+    <title lang="pl">Men's basketball: Spanish league - match: Real Madrid - La Laguna Tenerife</title>
   </programme>
   <programme channel="Sportklub.HD.pl" start="20260422080000 -0500" stop="20260422101000 -0500">
     <title lang="pl">Football: Greek League - match: MGS Panserraikos - PAE Atromitos</title>
@@ -115,19 +67,24 @@
   <programme channel="Sportklub.HD.pl" start="20260422101000 -0500" stop="20260422120000 -0500">
     <title lang="pl">Sailing: SailGP in Rio de Janeiro - day 1</title>
   </programme>
-  <programme channel="Sportklub.HD.pl" start="20260422120000 -0500" stop="20260422141000 -0500">
+  <programme channel="Sportklub.HD.pl" start="20260422120000 -0500" stop="20260422141500 -0500">
     <title lang="pl">Football: Greek League - match: Asteras Tripolis - Panetolikos GFS</title>
   </programme>
-  <programme channel="Sportklub.HD.pl" start="20260422141000 -0500" stop="20260422163500 -0500">
+  <programme channel="Sportklub.HD.pl" start="20260422141500 -0500" stop="20260422162500 -0500">
     <title lang="pl">Football: Greek League - match: PAE Atromitos - AE Kifisia</title>
   </programme>
-  <programme channel="Sportklub.HD.pl" start="20260422163500 -0500" stop="20260422184500 -0500">
+  <programme channel="Sportklub.HD.pl" start="20260422162500 -0500" stop="20260422164500 -0500">
+    <title lang="pl">Fifth quarter</title>
+    <desc lang="pl">A summary of the most interesting events of the last round in the Spanish basketball league, ACB.</desc>
+    <category lang="pl">magazyn sportowy</category>
+  </programme>
+  <programme channel="Sportklub.HD.pl" start="20260422164500 -0500" stop="20260422192000 -0500">
     <title lang="pl">Men's basketball: Spanish league - match: Real Madrid - La Laguna Tenerife</title>
   </programme>
-  <programme channel="Sportklub.HD.pl" start="20260422184500 -0500" stop="20260422205500 -0500">
+  <programme channel="Sportklub.HD.pl" start="20260422192000 -0500" stop="20260422214000 -0500">
     <title lang="pl">Football: Slovenian league - match: NS Mura - NK Bravo</title>
   </programme>
-  <programme channel="Sportklub.HD.pl" start="20260422205500 -0500" stop="20260422230000 -0500">
+  <programme channel="Sportklub.HD.pl" start="20260422214000 -0500" stop="20260422230000 -0500">
     <title lang="pl">Sailing: SailGP in Rio de Janeiro - day 1</title>
   </programme>
   <programme channel="Sportklub.HD.pl" start="20260422230000 -0500" stop="20260423012000 -0500">
@@ -233,58 +190,38 @@
   <programme channel="Sportklub.HD.pl" start="20260425230000 -0500" stop="20260426010000 -0500">
     <title lang="pl">Football: Slovenian league - match: ND Primorje - FC Koper</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.1.pl" start="20260421000000 -0500" stop="20260421013000 -0500">
-    <title lang="pl">Football: UEFA Conference League - match: AC Sparta Prague - Raków Częstochowa</title>
+  <programme channel="Sportklub.HD.pl" start="20260426010000 -0500" stop="20260426031500 -0500">
+    <title lang="pl">Football: Greek League - match: MGS Panserraikos - Asteras Tripolis</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.1.pl" start="20260421013000 -0500" stop="20260421030000 -0500">
-    <title lang="pl">Football: UEFA Conference League - match: Rayo Vallecano - Lech Poznań</title>
+  <programme channel="Sportklub.HD.pl" start="20260426031500 -0500" stop="20260426051500 -0500">
+    <title lang="pl">Men's basketball: Spanish League - match: Joventut Badalona - Kosner Baskonia Vitoria-Gasteiz</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.1.pl" start="20260421030000 -0500" stop="20260421043000 -0500">
-    <title lang="pl">Football: UEFA Conference League - match: KF Shkendija - Jagiellonia Białystok</title>
-    <desc lang="pl">The Pride of Podlasie started the league phase of the youngest UEFA competition with a modest victory over Hamrun Spartans 1-0.In the second round, Adrian Siemieniec's players faced the strong RC Strasbourg, drawing with them away 1-1.Now they are on a delegation to Skopje.KF Shkendija has a 0-2 defeat against Rayo Vallecano and a 1-0 victory over Shelbourne FC.Jagiellonia will be the favorite in the match at the stadium.Todor Proeski.Let's hope it plays its role better than the Lech Poznań players in the confrontation with Lincoln Red Imps from Gibraltar.</desc>
+  <programme channel="Sportklub.HD.pl" start="20260426051500 -0500" stop="20260426072500 -0500">
+    <title lang="pl">Men's basketball: Spanish league - match: Kosner Baskonia Vitoria-Gasteiz - Barca</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.1.pl" start="20260421043000 -0500" stop="20260421060000 -0500">
-    <title lang="pl">Football: UEFA Conference League - match: Lech Poznań - FC Lausanne-Sport</title>
+  <programme channel="Sportklub.HD.pl" start="20260426072500 -0500" stop="20260426094000 -0500">
+    <title lang="pl">Football: Slovenian league - match: NS Mura - NK Bravo</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.1.pl" start="20260421060000 -0500" stop="20260421073000 -0500">
-    <title lang="pl">Football: UEFA Conference League - match: Raków Częstochowa - SK Rapid Wien</title>
+  <programme channel="Sportklub.HD.pl" start="20260426094000 -0500" stop="20260426120000 -0500">
+    <title lang="pl">Men's basketball: Spanish league - match: CB San Pablo Burgos - Real Madrid</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.1.pl" start="20260421073000 -0500" stop="20260421090000 -0500">
-    <title lang="pl">Football: UEFA Conference League - match: Legia Warszawa - AC Sparta Prague</title>
+  <programme channel="Sportklub.HD.pl" start="20260426120000 -0500" stop="20260426135500 -0500">
+    <title lang="pl">Men's basketball: Spanish league - match: Valencia Basket - Real Madrid</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.1.pl" start="20260421090000 -0500" stop="20260421103000 -0500">
-    <title lang="pl">Football: UEFA Conference League - match: Jagiellonia Białystok - KuPS Kuopio</title>
-    <desc lang="pl">At the halfway point of the regular phase of the Conference League, Pride of Podlasie is in thirteenth place, which guarantees seeding in the play-off phase.Adrian Siemieniec's players remain undefeated, but they cannot be proud of their last performance.They only drew 1-1 with Macedonian Shkendija and scored the equalizing goal in the tenth minute of added time.Jagiellonia has a match against KuPS Kuopio, which, like itself, has five points.The Finnish team will take the field in Białystok encouraged by their 3-1 victory over Slovan Bratislava in the previous round.</desc>
+  <programme channel="Sportklub.HD.pl" start="20260426135500 -0500" stop="20260426161000 -0500">
+    <title lang="pl">Football: Greek League - match: PAE Atromitos - Asteras Tripolis</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.1.pl" start="20260421103000 -0500" stop="20260421120000 -0500">
-    <title lang="pl">Football: UEFA Conference League - match: RC Strasbourg - Crystal Palace FC</title>
+  <programme channel="Sportklub.HD.pl" start="20260426161000 -0500" stop="20260426185500 -0500">
+    <title lang="pl">Equestrian: Longines FEI Jumping World Cup in Fort Worth - show jumping</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.1.pl" start="20260421120000 -0500" stop="20260421122500 -0500">
-    <title lang="pl">Athletes</title>
-    <desc lang="pl">Atleci is a magazine for everyone who loves sport.The program includes reports from events, conversations with stars, as well as practical advice, interesting people and unique places on the sports map of Poland.</desc>
-    <category lang="pl">magazyn sportowy</category>
+  <programme channel="Sportklub.HD.pl" start="20260426185500 -0500" stop="20260426210000 -0500">
+    <title lang="pl">Football: Slovenian league - match: NS Mura - NK Bravo</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.1.pl" start="20260421122500 -0500" stop="20260421150000 -0500">
-    <title lang="pl">Football: Turkish Cup - quarter-final match: Konyaspor - Fenerbahce SK</title>
+  <programme channel="Sportklub.HD.pl" start="20260426210000 -0500" stop="20260426230000 -0500">
+    <title lang="pl">Men's basketball: Spanish league - match: Barca - Surne Bilbao Basket</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.1.pl" start="20260421150000 -0500" stop="20260421163000 -0500">
-    <title lang="pl">Football: UEFA Conference League - match: AC Sparta Prague - Raków Częstochowa</title>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.1.pl" start="20260421163000 -0500" stop="20260421180000 -0500">
-    <title lang="pl">Football: UEFA Conference League - match: AZ Alkmaar - Jagiellonia Białystok</title>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.1.pl" start="20260421180000 -0500" stop="20260421193000 -0500">
-    <title lang="pl">Football: UEFA Conference League - match: Omonia FC - Raków Częstochowa</title>
-    <desc lang="pl">The Medals are one of three teams in the Conference League that have not yet been defeated in the regular round.The Częstochowa team has already secured their place in the knockout phase, but they do not intend to be satisfied with that.They are counting on direct promotion to the 1/8 finals, which will give them a place in the best eight at the end of the league phase of the competition.Before the clash with Omonia, coached by former Legia coach Henning Berg, they are in third place in the table.The team from Nicosia is fifteenth and has eight points, three less than Raków.</desc>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.1.pl" start="20260421193000 -0500" stop="20260421210000 -0500">
-    <title lang="pl">Football: UEFA Conference League - match: Legia Warszawa - Lincoln Red Imps FC</title>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.1.pl" start="20260421210000 -0500" stop="20260421223000 -0500">
-    <title lang="pl">Football: UEFA Conference League - play-off match: KuPS Kuopio - Lech Poznań</title>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.1.pl" start="20260421223000 -0500" stop="20260422000000 -0500">
-    <title lang="pl">Football: UEFA Conference League - play-off match: Jagiellonia Białystok - ACF Fiorentina</title>
+  <programme channel="Sportklub.HD.pl" start="20260426230000 -0500" stop="20260427010000 -0500">
+    <title lang="pl">Men's Basketball: Spanish League</title>
   </programme>
   <programme channel="Polsat.Sport.Premium.1.pl" start="20260422000000 -0500" stop="20260422013000 -0500">
     <title lang="pl">Football: UEFA Conference League - match: Legia Warszawa - Lincoln Red Imps FC</title>
@@ -448,70 +385,21 @@
     <title lang="pl">No sports broadcasts scheduled</title>
     <category lang="pl">program sportowy</category>
   </programme>
-  <programme channel="Polsat.Sport.Premium.2.pl" start="20260421000000 -0500" stop="20260421013000 -0500">
-    <title lang="pl">Football: UEFA Europa League - match: FC Porto - Rangers FC</title>
+  <programme channel="Polsat.Sport.Premium.1.pl" start="20260426010000 -0500" stop="20260426050000 -0500">
+    <title lang="pl">No sports broadcasts scheduled</title>
+    <category lang="pl">program sportowy</category>
   </programme>
-  <programme channel="Polsat.Sport.Premium.2.pl" start="20260421013000 -0500" stop="20260421030000 -0500">
-    <title lang="pl">UEFA Conference League Archive</title>
-    <sub-title lang="pl">Molde FK - Legia Warszawa - 15.02.2024 - 1/16 finału - sezon 2023/2024 - 1. mecz</sub-title>
-    <category lang="pl">magazyn piłkarski</category>
+  <programme channel="Polsat.Sport.Premium.1.pl" start="20260426050000 -0500" stop="20260426110000 -0500">
+    <title lang="pl">No sports broadcasts scheduled</title>
+    <category lang="pl">program sportowy</category>
   </programme>
-  <programme channel="Polsat.Sport.Premium.2.pl" start="20260421030000 -0500" stop="20260421043000 -0500">
-    <title lang="pl">Football: UEFA Europa League - match: Panathinaikos AO - AS Roma</title>
+  <programme channel="Polsat.Sport.Premium.1.pl" start="20260426110000 -0500" stop="20260426170000 -0500">
+    <title lang="pl">No sports broadcasts scheduled</title>
+    <category lang="pl">program sportowy</category>
   </programme>
-  <programme channel="Polsat.Sport.Premium.2.pl" start="20260421043000 -0500" stop="20260421060000 -0500">
-    <title lang="pl">UEFA Conference League Archive</title>
-    <sub-title lang="pl">Legia Warszawa - Molde FK - 22.02.2024 - 1/16 finału - sezon 2023/2024 - 2. mecz</sub-title>
-    <category lang="pl">magazyn piłkarski</category>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.2.pl" start="20260421060000 -0500" stop="20260421073000 -0500">
-    <title lang="pl">Football: UEFA Europa League - match: Aston Villa FC - FC Salzburg</title>
-    <desc lang="pl">The hosts are impressive in their form both domestically and in European cups.In the current edition of the Europa League, they lost only once - to Go Ahead Eagles (1-2), but since then they have won four in a row, including the last one over Fenerbahce (1-0).Aston Villa is already certain of promotion, taking second place in the table.The situation of the Austrians is definitely more difficult.RB Salzburg managed to win only two games and lost five.They are in a distant 28th place in the classification, and in order to advance to the play-off phase of the 1/16 finals, they must win in Birmingham and count on their rivals' mistakes.</desc>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.2.pl" start="20260421073000 -0500" stop="20260421090000 -0500">
-    <title lang="pl">UEFA Conference League Archive</title>
-    <sub-title lang="pl">Lech Poznań - FK Bodo/Glimt - 23.02.2023 - 1/16 finału - sezon 2022/2023 - 2. mecz</sub-title>
-    <category lang="pl">magazyn piłkarski</category>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.2.pl" start="20260421090000 -0500" stop="20260421103000 -0500">
-    <title lang="pl">Football: UEFA Europa League - match: Nottingham Forest FC - Ferencvárosi TC</title>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.2.pl" start="20260421103000 -0500" stop="20260421120000 -0500">
-    <title lang="pl">UEFA Conference League Archive</title>
-    <sub-title lang="pl">Lech Poznań - Djurgarden - 09.03.2023 - 1/8 finału - sezon 2022/2023 - 1 mecz</sub-title>
-    <category lang="pl">magazyn piłkarski</category>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.2.pl" start="20260421120000 -0500" stop="20260421134000 -0500">
-    <title lang="pl">Football: UEFA Europa League - match: FC Porto - Rangers FC</title>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.2.pl" start="20260421134000 -0500" stop="20260421160000 -0500">
-    <title lang="pl">Men's basketball: EuroLeague - play-in match: Barca - Red Star Meridianbet Belgrade</title>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.2.pl" start="20260421160000 -0500" stop="20260421163000 -0500">
-    <title lang="pl">Athletes</title>
-    <desc lang="pl">Atleci is a magazine for everyone who loves sport.The program includes reports from events, conversations with stars, as well as practical advice, interesting people and unique places on the sports map of Poland.</desc>
-    <category lang="pl">magazyn sportowy</category>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.2.pl" start="20260421163000 -0500" stop="20260421180000 -0500">
-    <title lang="pl">UEFA Conference League Archive</title>
-    <sub-title lang="pl">Fiorentina - Lech Poznań - 20.04.2024 - 1/4 finału - sezon 2022/2023 - 2. mecz</sub-title>
-    <category lang="pl">magazyn piłkarski</category>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.2.pl" start="20260421180000 -0500" stop="20260421193000 -0500">
-    <title lang="pl">Football: UEFA Europa League - match: Fenerbahce SK - Aston Villa FC</title>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.2.pl" start="20260421193000 -0500" stop="20260421210000 -0500">
-    <title lang="pl">UEFA Conference League Archive</title>
-    <sub-title lang="pl">Lech Poznań - FK Bodo/Glimt - 23.02.2023 - 1/16 finału - sezon 2022/2023 - 2. mecz</sub-title>
-    <category lang="pl">magazyn piłkarski</category>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.2.pl" start="20260421210000 -0500" stop="20260421223000 -0500">
-    <title lang="pl">Football: UEFA Europa League - match: AS Roma - VfB Stuttgart</title>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.2.pl" start="20260421223000 -0500" stop="20260422000000 -0500">
-    <title lang="pl">UEFA Conference League Archive</title>
-    <sub-title lang="pl">Lech Poznań - Villarreal 03.11.2022 - mecz grupowy - sezon 2022/2023</sub-title>
-    <category lang="pl">magazyn piłkarski</category>
+  <programme channel="Polsat.Sport.Premium.1.pl" start="20260426170000 -0500" stop="20260427010000 -0500">
+    <title lang="pl">No sports broadcasts scheduled</title>
+    <category lang="pl">program sportowy</category>
   </programme>
   <programme channel="Polsat.Sport.Premium.2.pl" start="20260422000000 -0500" stop="20260422013000 -0500">
     <title lang="pl">Football: UEFA Europa League - match: Aston Villa FC - FC Salzburg</title>
@@ -703,32 +591,21 @@
     <title lang="pl">No sports broadcasts scheduled</title>
     <category lang="pl">program sportowy</category>
   </programme>
-  <programme channel="Polsat.Sport.Premium.3.pl" start="20260421000000 -0500" stop="20260421020000 -0500">
-    <title lang="pl">Football: Dutch Cup - final match: AZ Alkmaar - NEC Nijmegen</title>
+  <programme channel="Polsat.Sport.Premium.2.pl" start="20260426010000 -0500" stop="20260426050000 -0500">
+    <title lang="pl">No sports broadcasts scheduled</title>
+    <category lang="pl">program sportowy</category>
   </programme>
-  <programme channel="Polsat.Sport.Premium.3.pl" start="20260421020000 -0500" stop="20260421040000 -0500">
-    <title lang="pl">Football: Czech league - match: FK Teplice - AC Sparta Prague</title>
+  <programme channel="Polsat.Sport.Premium.2.pl" start="20260426050000 -0500" stop="20260426110000 -0500">
+    <title lang="pl">No sports broadcasts scheduled</title>
+    <category lang="pl">program sportowy</category>
   </programme>
-  <programme channel="Polsat.Sport.Premium.3.pl" start="20260421040000 -0500" stop="20260421060000 -0500">
-    <title lang="pl">Football: German League - match: Borussia Mönchengladbach - 1. FSV Mainz 05</title>
+  <programme channel="Polsat.Sport.Premium.2.pl" start="20260426110000 -0500" stop="20260426170000 -0500">
+    <title lang="pl">No sports broadcasts scheduled</title>
+    <category lang="pl">program sportowy</category>
   </programme>
-  <programme channel="Polsat.Sport.Premium.3.pl" start="20260421060000 -0500" stop="20260421080000 -0500">
-    <title lang="pl">Football: Czech league - match: FC Hradec Kralove - SK Slavia Prague</title>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.3.pl" start="20260421080000 -0500" stop="20260421100000 -0500">
-    <title lang="pl">Football: German League - match: FC Bayern Munich - VfB Stuttgart</title>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.3.pl" start="20260421100000 -0500" stop="20260421120000 -0500">
-    <title lang="pl">Football: Italian league - match: AS Roma - Atalanta BC</title>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.3.pl" start="20260421120000 -0500" stop="20260421140000 -0500">
-    <title lang="pl">Football: Scottish Cup - semi-final match: Celtic FC - St.Mirren FC</title>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.3.pl" start="20260421140000 -0500" stop="20260421160000 -0500">
-    <title lang="pl">Football: Italian league - match: Juventus FC - Bologna FC</title>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.3.pl" start="20260421160000 -0500" stop="20260422000000 -0500">
-    <title lang="pl">Football: Dutch Cup - final match: AZ Alkmaar - NEC Nijmegen</title>
+  <programme channel="Polsat.Sport.Premium.2.pl" start="20260426170000 -0500" stop="20260427010000 -0500">
+    <title lang="pl">No sports broadcasts scheduled</title>
+    <category lang="pl">program sportowy</category>
   </programme>
   <programme channel="Polsat.Sport.Premium.3.pl" start="20260422000000 -0500" stop="20260422020000 -0500">
     <title lang="pl">Football: Czech league - match: FC Hradec Kralove - SK Slavia Prague</title>
@@ -850,35 +727,17 @@
   <programme channel="Polsat.Sport.Premium.3.pl" start="20260425230000 -0500" stop="20260426050000 -0500">
     <title lang="pl">POLSAT Sport Extra 1</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.4.pl" start="20260421000000 -0500" stop="20260421020000 -0500">
-    <title lang="pl">Men's volleyball: PlusLiga - 2nd semi-final match of the play-off phase: Bogdanka LUK Lublin - PGE Projekt Warszawa</title>
+  <programme channel="Polsat.Sport.Premium.3.pl" start="20260426050000 -0500" stop="20260426110000 -0500">
+    <title lang="pl">POLSAT Sport Extra 1</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.4.pl" start="20260421020000 -0500" stop="20260421040000 -0500">
-    <title lang="pl">Men's volleyball: PlusLiga - match for 5th place in the play-off phase: Indykpol AZS Olsztyn - PGE GieK Skra Bełchatów</title>
+  <programme channel="Polsat.Sport.Premium.3.pl" start="20260426110000 -0500" stop="20260426170000 -0500">
+    <title lang="pl">POLSAT Sport Extra 1</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.4.pl" start="20260421040000 -0500" stop="20260421060000 -0500">
-    <title lang="pl">Women's volleyball: TAURON Liga - 2nd final match of the play-off phase: PGE Budowlani Łódź - KS DevelopRes Rzeszów</title>
+  <programme channel="Polsat.Sport.Premium.3.pl" start="20260426170000 -0500" stop="20260426230000 -0500">
+    <title lang="pl">POLSAT Sport Extra 1</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.4.pl" start="20260421060000 -0500" stop="20260421080000 -0500">
-    <title lang="pl">Men's volleyball: PlusLiga - match for 5th place in the play-off phase: PGE GieK Skra Bełchatów - Indykpol AZS Olsztyn</title>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.4.pl" start="20260421080000 -0500" stop="20260421100000 -0500">
-    <title lang="pl">Men's volleyball: PlusLiga - match for 5th place in the play-off phase: Indykpol AZS Olsztyn - PGE GieK Skra Bełchatów</title>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.4.pl" start="20260421100000 -0500" stop="20260421103000 -0500">
-    <title lang="pl">Polsat Sport Talk Extra</title>
-    <sub-title lang="pl">dr Michał Rynkowski</sub-title>
-    <desc lang="pl">Przemysław Iwańczyk talks about sports with people from outside his circle, including:from culture, medicine, science and politics.Thanks to them, sport appears as a complex process influencing results.</desc>
-    <category lang="pl">magazyn sportowy</category>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.4.pl" start="20260421103000 -0500" stop="20260421125000 -0500">
-    <title lang="pl">Women's volleyball: TAURON Liga - 3rd place match of the play-off phase: UNI Opole - BKS BOSTIK ZGO Bielsko-Biała</title>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.4.pl" start="20260421125000 -0500" stop="20260421160000 -0500">
-    <title lang="pl">Men's volleyball: PlusLiga - play-off match</title>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.4.pl" start="20260421160000 -0500" stop="20260422000000 -0500">
-    <title lang="pl">Women's volleyball: TAURON Liga - 2nd match for 3rd place in the play-off phase: BKS BOSTIK ZGO Bielsko-Biała - UNI Opole</title>
+  <programme channel="Polsat.Sport.Premium.3.pl" start="20260426230000 -0500" stop="20260427050000 -0500">
+    <title lang="pl">POLSAT Sport Extra 1</title>
   </programme>
   <programme channel="Polsat.Sport.Premium.4.pl" start="20260422000000 -0500" stop="20260422020000 -0500">
     <title lang="pl">Men's volleyball: PlusLiga - match for 5th place in the play-off phase: Indykpol AZS Olsztyn - PGE GieK Skra Bełchatów</title>
@@ -895,17 +754,17 @@
   <programme channel="Polsat.Sport.Premium.4.pl" start="20260422080000 -0500" stop="20260422100000 -0500">
     <title lang="pl">Men's volleyball: PlusLiga - 1st semi-final match of the play-off phase: Aluron CMC Warta Zawiercie - Asseco Resovia Rzeszów</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.4.pl" start="20260422100000 -0500" stop="20260422103000 -0500">
+  <programme channel="Polsat.Sport.Premium.4.pl" start="20260422100000 -0500" stop="20260422101500 -0500">
     <title lang="pl">Polsat Sport Talk Extra</title>
     <sub-title lang="pl">dr Michał Rynkowski</sub-title>
     <desc lang="pl">Przemysław Iwańczyk talks about sports with people from outside his circle, including:from culture, medicine, science and politics.Thanks to them, sport appears as a complex process influencing results.</desc>
     <category lang="pl">magazyn sportowy</category>
   </programme>
-  <programme channel="Polsat.Sport.Premium.4.pl" start="20260422103000 -0500" stop="20260422130000 -0500">
-    <title lang="pl">Men's volleyball: PlusLiga - 3rd semi-final match of the play-off phase</title>
+  <programme channel="Polsat.Sport.Premium.4.pl" start="20260422101500 -0500" stop="20260422130000 -0500">
+    <title lang="pl">Women's volleyball: TAURON Liga - 3rd final match of the play-off phase: KS DevelopRes Rzeszów - PGE Budowlani Łódź</title>
   </programme>
   <programme channel="Polsat.Sport.Premium.4.pl" start="20260422130000 -0500" stop="20260422160000 -0500">
-    <title lang="pl">Women's volleyball: TAURON Liga - 3rd final match of the play-off phase</title>
+    <title lang="pl">Men's volleyball: PlusLiga - play-off match</title>
   </programme>
   <programme channel="Polsat.Sport.Premium.4.pl" start="20260422160000 -0500" stop="20260423000000 -0500">
     <title lang="pl">Women's volleyball: TAURON Liga - 2nd final match of the play-off phase: PGE Budowlani Łódź - KS DevelopRes Rzeszów</title>
@@ -986,42 +845,17 @@
   <programme channel="Polsat.Sport.Premium.4.pl" start="20260425230000 -0500" stop="20260426050000 -0500">
     <title lang="pl">POLSAT Sport Extra 2</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.5.pl" start="20260421000000 -0500" stop="20260421020000 -0500">
-    <title lang="pl">Tennis: ATP Tournament in Munich</title>
+  <programme channel="Polsat.Sport.Premium.4.pl" start="20260426050000 -0500" stop="20260426110000 -0500">
+    <title lang="pl">POLSAT Sport Extra 2</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.5.pl" start="20260421020000 -0500" stop="20260421040000 -0500">
-    <title lang="pl">Tennis: ATP Tournament in Munich</title>
+  <programme channel="Polsat.Sport.Premium.4.pl" start="20260426110000 -0500" stop="20260426170000 -0500">
+    <title lang="pl">POLSAT Sport Extra 2</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.5.pl" start="20260421040000 -0500" stop="20260421053000 -0500">
-    <title lang="pl">Archived abbreviation of the UEFA Europa League</title>
-    <sub-title lang="pl">Lech Poznań - Juventus Turyn 01.12.2010 - sezon 2010/2011</sub-title>
-    <category lang="pl">magazyn piłkarski</category>
+  <programme channel="Polsat.Sport.Premium.4.pl" start="20260426170000 -0500" stop="20260426230000 -0500">
+    <title lang="pl">POLSAT Sport Extra 2</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.5.pl" start="20260421053000 -0500" stop="20260421070000 -0500">
-    <title lang="pl">Archived abbreviation of the UEFA Europa League</title>
-    <sub-title lang="pl">Wisła Kraków - Fulham FC 20.10.2011 - sezon 2010/2011</sub-title>
-    <category lang="pl">magazyn piłkarski</category>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.5.pl" start="20260421070000 -0500" stop="20260421083000 -0500">
-    <title lang="pl">Archived abbreviation of the UEFA Europa League</title>
-    <sub-title lang="pl">Rapid Bukareszt - Legia Warszawa 20.10.2011 - sezon 2011/2012</sub-title>
-    <category lang="pl">magazyn piłkarski</category>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.5.pl" start="20260421083000 -0500" stop="20260421100000 -0500">
-    <title lang="pl">Archived abbreviation of the UEFA Europa League</title>
-    <sub-title lang="pl">Lech Poznań - Manchester City FC 04.11.2010 - sezon 2010/11</sub-title>
-    <category lang="pl">magazyn piłkarski</category>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.5.pl" start="20260421100000 -0500" stop="20260421140000 -0500">
-    <title lang="pl">FIA World Endurance Championship: 6 Hours of Imola</title>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.5.pl" start="20260421140000 -0500" stop="20260421160000 -0500">
-    <title lang="pl">Tennis: ATP Tournament in Barcelona</title>
-    <desc lang="pl">The highest seeded player in the 73rd edition of the Barcelona Open was Carlos Alcaraz.However, the ATP ranking runner-up withdrew from the competition before the second round due to an injury.Other favorites didn't fare well either.As a result, only two seeded tennis players were in the semi-finals - Andrei Rublev and Arthur Fils.Both rose to the challenge, defeated their rivals, Hamad Medjedovic and Rafael Jodar, respectively, and entered the decisive duel.The Frenchman had a chance to win the first main series tournament since October 2024.</desc>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.5.pl" start="20260421160000 -0500" stop="20260422000000 -0500">
-    <title lang="pl">Tennis: ATP Tournament in Barcelona</title>
-    <desc lang="pl">The highest seeded player in the 73rd edition of the Barcelona Open was Carlos Alcaraz.However, the ATP ranking runner-up withdrew from the competition before the second round due to an injury.Other favorites didn't fare well either.As a result, only two seeded tennis players were in the semi-finals - Andrei Rublev and Arthur Fils.Both rose to the challenge, defeated their rivals, Hamad Medjedovic and Rafael Jodar, respectively, and entered the decisive duel.The Frenchman had a chance to win the first main series tournament since October 2024.</desc>
+  <programme channel="Polsat.Sport.Premium.4.pl" start="20260426230000 -0500" stop="20260427050000 -0500">
+    <title lang="pl">POLSAT Sport Extra 2</title>
   </programme>
   <programme channel="Polsat.Sport.Premium.5.pl" start="20260422000000 -0500" stop="20260422020000 -0500">
     <title lang="pl">Tennis: ATP Tournament in Munich</title>
@@ -1056,13 +890,13 @@
     <title lang="pl">Women's volleyball: Italian league - 4th final match of the play-off phase: Vero Volley Milano - Prosecco Doc A.Carraro Imoco Conegliano</title>
   </programme>
   <programme channel="Polsat.Sport.Premium.5.pl" start="20260422160000 -0500" stop="20260423000000 -0500">
-    <title lang="pl">Tennis: ATP Tournament in Madrid</title>
+    <title lang="pl">Tennis: ATP Tournament in Madrid - 1st round singles match</title>
   </programme>
   <programme channel="Polsat.Sport.Premium.5.pl" start="20260423000000 -0500" stop="20260423020000 -0500">
-    <title lang="pl">Tennis: ATP Tournament in Madrid</title>
+    <title lang="pl">Tennis: ATP Tournament in Madrid - 1st round singles match</title>
   </programme>
   <programme channel="Polsat.Sport.Premium.5.pl" start="20260423020000 -0500" stop="20260423040000 -0500">
-    <title lang="pl">Tennis: ATP Tournament in Madrid</title>
+    <title lang="pl">Tennis: ATP Tournament in Madrid - 1st round singles match</title>
   </programme>
   <programme channel="Polsat.Sport.Premium.5.pl" start="20260423040000 -0500" stop="20260423053000 -0500">
     <title lang="pl">UEFA Conference League Archive</title>
@@ -1092,7 +926,7 @@
     <title lang="pl">Men's volleyball: CEV Cup - return final match: Gas Sales Blueenergy Piacenza - SVG Lüneburg</title>
   </programme>
   <programme channel="Polsat.Sport.Premium.5.pl" start="20260423160000 -0500" stop="20260424000000 -0500">
-    <title lang="pl">Tennis: ATP Tournament in Madrid</title>
+    <title lang="pl">Tennis: ATP Tournament in Madrid - 1st round singles match</title>
   </programme>
   <programme channel="Polsat.Sport.Premium.5.pl" start="20260424000000 -0500" stop="20260424020000 -0500">
     <title lang="pl">Tennis: ATP Tournament in Madrid</title>
@@ -1138,37 +972,17 @@
   <programme channel="Polsat.Sport.Premium.5.pl" start="20260425230000 -0500" stop="20260426050000 -0500">
     <title lang="pl">POLSAT Sport Extra 3</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.6.pl" start="20260421000000 -0500" stop="20260421020000 -0500">
-    <title lang="pl">Men's basketball: ORLEN Basket Liga - match: Anwil Włocławek - ORLEN Zastal Zielona Góra</title>
+  <programme channel="Polsat.Sport.Premium.5.pl" start="20260426050000 -0500" stop="20260426110000 -0500">
+    <title lang="pl">POLSAT Sport Extra 3</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.6.pl" start="20260421020000 -0500" stop="20260421040000 -0500">
-    <title lang="pl">Men's basketball: ORLEN Basket Liga - match: AMW Arka Gdynia - King Szczecin</title>
+  <programme channel="Polsat.Sport.Premium.5.pl" start="20260426110000 -0500" stop="20260426170000 -0500">
+    <title lang="pl">POLSAT Sport Extra 3</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.6.pl" start="20260421040000 -0500" stop="20260421060000 -0500">
-    <title lang="pl">Men's basketball: ORLEN Basket Liga - match: WKS Śląsk Wrocław - Tasomix Rosiek Stal Ostrów Wielkopolski</title>
+  <programme channel="Polsat.Sport.Premium.5.pl" start="20260426170000 -0500" stop="20260426230000 -0500">
+    <title lang="pl">POLSAT Sport Extra 3</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.6.pl" start="20260421060000 -0500" stop="20260421080000 -0500">
-    <title lang="pl">Men's basketball: ORLEN Basket Liga - match: MKS Dąbrowa Górnicza - Miasto Szkła Krosno</title>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.6.pl" start="20260421080000 -0500" stop="20260421100000 -0500">
-    <title lang="pl">Men's basketball: ORLEN Basket Liga - match: Anwil Włocławek - ORLEN Zastal Zielona Góra</title>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.6.pl" start="20260421100000 -0500" stop="20260421120000 -0500">
-    <title lang="pl">Men's basketball: ORLEN Basket Liga - match: Górnik Zamek Książ Wałbrzych - PGE Start Lublin</title>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.6.pl" start="20260421120000 -0500" stop="20260421131000 -0500">
-    <title lang="pl">Polsat Sport Talk Extra</title>
-    <desc lang="pl">Przemysław Iwańczyk talks about sports with people from outside his circle, including:from culture, medicine, science and politics.Thanks to them, sport appears as a complex process influencing results.</desc>
-    <category lang="pl">magazyn sportowy</category>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.6.pl" start="20260421131000 -0500" stop="20260421150000 -0500">
-    <title lang="pl">Men's basketball: ORLEN Basket Liga - match: AMW Arka Gdynia - WKS Śląsk Wrocław</title>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.6.pl" start="20260421150000 -0500" stop="20260421170000 -0500">
-    <title lang="pl">Men's basketball: ORLEN Basket Liga - match: WKS Śląsk Wrocław - Tasomix Rosiek Stal Ostrów Wielkopolski</title>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.6.pl" start="20260421170000 -0500" stop="20260422000000 -0500">
-    <title lang="pl">Men's basketball: EuroLeague - play-in match: Panathinaikos ACTOR Athens - AS Monaco</title>
+  <programme channel="Polsat.Sport.Premium.5.pl" start="20260426230000 -0500" stop="20260427050000 -0500">
+    <title lang="pl">POLSAT Sport Extra 3</title>
   </programme>
   <programme channel="Polsat.Sport.Premium.6.pl" start="20260422000000 -0500" stop="20260422020000 -0500">
     <title lang="pl">Men's basketball: ORLEN Basket Liga - match: AMW Arka Gdynia - WKS Śląsk Wrocław</title>
@@ -1239,14 +1053,14 @@
   <programme channel="Polsat.Sport.Premium.6.pl" start="20260424080000 -0500" stop="20260424100000 -0500">
     <title lang="pl">Men's basketball: ORLEN Basket Liga - match: AMW Arka Gdynia - WKS Śląsk Wrocław</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.6.pl" start="20260424100000 -0500" stop="20260424105500 -0500">
+  <programme channel="Polsat.Sport.Premium.6.pl" start="20260424100000 -0500" stop="20260424110000 -0500">
     <title lang="pl">Freeride</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.6.pl" start="20260424105500 -0500" stop="20260424130000 -0500">
-    <title lang="pl">Men's basketball: ORLEN Basket Liga - match: Arriva LOTTO Twarde Pierniki Toruń - Górnik Zamek Książ Wałbrzych</title>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.6.pl" start="20260424130000 -0500" stop="20260424150000 -0500">
+  <programme channel="Polsat.Sport.Premium.6.pl" start="20260424110000 -0500" stop="20260424131000 -0500">
     <title lang="pl">Men's basketball: ORLEN Basket Liga - match: AMW Arka Gdynia - WKS Śląsk Wrocław</title>
+  </programme>
+  <programme channel="Polsat.Sport.Premium.6.pl" start="20260424131000 -0500" stop="20260424150000 -0500">
+    <title lang="pl">Men's basketball: ORLEN Basket Liga - match: Arriva LOTTO Twarde Pierniki Toruń - Górnik Zamek Książ Wałbrzych</title>
   </programme>
   <programme channel="Polsat.Sport.Premium.6.pl" start="20260424150000 -0500" stop="20260424170000 -0500">
     <title lang="pl">Men's basketball: ORLEN Basket Liga - match: Miasto Szkła Krosno - ORLEN Zastal Zielona Góra</title>
@@ -1269,67 +1083,31 @@
   <programme channel="Polsat.Sport.Premium.6.pl" start="20260425230000 -0500" stop="20260426050000 -0500">
     <title lang="pl">POLSAT Sport Extra 4</title>
   </programme>
-  <programme channel="Sportklub.pl" start="20260421012500 -0500" stop="20260421031500 -0500">
+  <programme channel="Polsat.Sport.Premium.6.pl" start="20260426050000 -0500" stop="20260426110000 -0500">
+    <title lang="pl">POLSAT Sport Extra 4</title>
+  </programme>
+  <programme channel="Polsat.Sport.Premium.6.pl" start="20260426110000 -0500" stop="20260426170000 -0500">
+    <title lang="pl">POLSAT Sport Extra 4</title>
+  </programme>
+  <programme channel="Polsat.Sport.Premium.6.pl" start="20260426170000 -0500" stop="20260426230000 -0500">
+    <title lang="pl">POLSAT Sport Extra 4</title>
+  </programme>
+  <programme channel="Polsat.Sport.Premium.6.pl" start="20260426230000 -0500" stop="20260427050000 -0500">
+    <title lang="pl">POLSAT Sport Extra 4</title>
+  </programme>
+  <programme channel="Sportklub.pl" start="20260422010000 -0500" stop="20260422024500 -0500">
     <title lang="pl">Sailing: SailGP in Rio de Janeiro - day 1</title>
   </programme>
-  <programme channel="Sportklub.pl" start="20260421031500 -0500" stop="20260421052000 -0500">
-    <title lang="pl">Football: Slovenian league - match: ND Primorje - FC Koper</title>
-  </programme>
-  <programme channel="Sportklub.pl" start="20260421052000 -0500" stop="20260421074000 -0500">
-    <title lang="pl">Men's basketball: Spanish league - match: Hiopos Lleida - Barca</title>
-  </programme>
-  <programme channel="Sportklub.pl" start="20260421074000 -0500" stop="20260421090000 -0500">
-    <title lang="pl">Equestrian: Longines FEI Jumping World Cup in Fort Worth - show jumping</title>
-  </programme>
-  <programme channel="Sportklub.pl" start="20260421090000 -0500" stop="20260421105000 -0500">
-    <title lang="pl">Football: Slovenian league - match: ND Primorje - FC Koper</title>
-  </programme>
-  <programme channel="Sportklub.pl" start="20260421105000 -0500" stop="20260421123500 -0500">
-    <title lang="pl">Sailing: SailGP in Rio de Janeiro - day 1</title>
-  </programme>
-  <programme channel="Sportklub.pl" start="20260421123500 -0500" stop="20260421130500 -0500">
+  <programme channel="Sportklub.pl" start="20260422024500 -0500" stop="20260422030500 -0500">
     <title lang="pl">Fifth quarter</title>
     <desc lang="pl">A summary of the most interesting events of the last round in the Spanish basketball league, ACB.</desc>
     <category lang="pl">magazyn sportowy</category>
   </programme>
-  <programme channel="Sportklub.pl" start="20260421130500 -0500" stop="20260421152000 -0500">
-    <title lang="pl">Football: Greek League - match: PAOK FC - Panathinaikos AO</title>
-  </programme>
-  <programme channel="Sportklub.pl" start="20260421152000 -0500" stop="20260421161500 -0500">
-    <title lang="pl">Pool billiards: Ekstraklasa</title>
-  </programme>
-  <programme channel="Sportklub.pl" start="20260421161500 -0500" stop="20260421180000 -0500">
-    <title lang="pl">Sailing: SailGP in Rio de Janeiro - day 1</title>
-  </programme>
-  <programme channel="Sportklub.pl" start="20260421180000 -0500" stop="20260421181500 -0500">
-    <title lang="pl">Fifth quarter</title>
-    <desc lang="pl">A summary of the most interesting events of the last round in the Spanish basketball league, ACB.</desc>
-    <category lang="pl">magazyn sportowy</category>
-  </programme>
-  <programme channel="Sportklub.pl" start="20260421181500 -0500" stop="20260421202000 -0500">
+  <programme channel="Sportklub.pl" start="20260422030500 -0500" stop="20260422054500 -0500">
     <title lang="pl">Men's basketball: Spanish League - match: Joventut Badalona - Kosner Baskonia Vitoria-Gasteiz</title>
   </programme>
-  <programme channel="Sportklub.pl" start="20260421202000 -0500" stop="20260421215500 -0500">
-    <title lang="pl">Sailing: SailGP in Rio de Janeiro - day 1</title>
-  </programme>
-  <programme channel="Sportklub.pl" start="20260421215500 -0500" stop="20260421230000 -0500">
-    <title lang="pl">Horse riding - show jumping</title>
-    <sub-title lang="pl">Longines FEI Jumping World Cup w Fort Worth</sub-title>
-  </programme>
-  <programme channel="Sportklub.pl" start="20260421230000 -0500" stop="20260422011500 -0500">
-    <title lang="pl">Football: Slovenian league - match: ND Primorje - FC Koper</title>
-  </programme>
-  <programme channel="Sportklub.pl" start="20260422011500 -0500" stop="20260422032500 -0500">
-    <title lang="pl">Sailing: SailGP in Rio de Janeiro - day 1</title>
-  </programme>
-  <programme channel="Sportklub.pl" start="20260422032500 -0500" stop="20260422042000 -0500">
-    <title lang="pl">Pool billiards: Ekstraklasa</title>
-  </programme>
-  <programme channel="Sportklub.pl" start="20260422042000 -0500" stop="20260422063000 -0500">
-    <title lang="pl">Football: Slovenian league - match: ND Primorje - FC Koper</title>
-  </programme>
-  <programme channel="Sportklub.pl" start="20260422063000 -0500" stop="20260422080000 -0500">
-    <title lang="pl">Men's basketball: Spanish League - match: Joventut Badalona - Kosner Baskonia Vitoria-Gasteiz</title>
+  <programme channel="Sportklub.pl" start="20260422054500 -0500" stop="20260422080000 -0500">
+    <title lang="pl">Men's basketball: Spanish league - match: Real Madrid - La Laguna Tenerife</title>
   </programme>
   <programme channel="Sportklub.pl" start="20260422080000 -0500" stop="20260422101000 -0500">
     <title lang="pl">Football: Greek League - match: MGS Panserraikos - PAE Atromitos</title>
@@ -1337,19 +1115,24 @@
   <programme channel="Sportklub.pl" start="20260422101000 -0500" stop="20260422120000 -0500">
     <title lang="pl">Sailing: SailGP in Rio de Janeiro - day 1</title>
   </programme>
-  <programme channel="Sportklub.pl" start="20260422120000 -0500" stop="20260422141000 -0500">
+  <programme channel="Sportklub.pl" start="20260422120000 -0500" stop="20260422141500 -0500">
     <title lang="pl">Football: Greek League - match: Asteras Tripolis - Panetolikos GFS</title>
   </programme>
-  <programme channel="Sportklub.pl" start="20260422141000 -0500" stop="20260422163500 -0500">
+  <programme channel="Sportklub.pl" start="20260422141500 -0500" stop="20260422162500 -0500">
     <title lang="pl">Football: Greek League - match: PAE Atromitos - AE Kifisia</title>
   </programme>
-  <programme channel="Sportklub.pl" start="20260422163500 -0500" stop="20260422184500 -0500">
+  <programme channel="Sportklub.pl" start="20260422162500 -0500" stop="20260422164500 -0500">
+    <title lang="pl">Fifth quarter</title>
+    <desc lang="pl">A summary of the most interesting events of the last round in the Spanish basketball league, ACB.</desc>
+    <category lang="pl">magazyn sportowy</category>
+  </programme>
+  <programme channel="Sportklub.pl" start="20260422164500 -0500" stop="20260422192000 -0500">
     <title lang="pl">Men's basketball: Spanish league - match: Real Madrid - La Laguna Tenerife</title>
   </programme>
-  <programme channel="Sportklub.pl" start="20260422184500 -0500" stop="20260422205500 -0500">
+  <programme channel="Sportklub.pl" start="20260422192000 -0500" stop="20260422214000 -0500">
     <title lang="pl">Football: Slovenian league - match: NS Mura - NK Bravo</title>
   </programme>
-  <programme channel="Sportklub.pl" start="20260422205500 -0500" stop="20260422230000 -0500">
+  <programme channel="Sportklub.pl" start="20260422214000 -0500" stop="20260422230000 -0500">
     <title lang="pl">Sailing: SailGP in Rio de Janeiro - day 1</title>
   </programme>
   <programme channel="Sportklub.pl" start="20260422230000 -0500" stop="20260423012000 -0500">
@@ -1455,45 +1238,38 @@
   <programme channel="Sportklub.pl" start="20260425230000 -0500" stop="20260426010000 -0500">
     <title lang="pl">Football: Slovenian league - match: ND Primorje - FC Koper</title>
   </programme>
-  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260421013000 -0500" stop="20260421040000 -0500">
-    <title lang="pl">Tennis: ATP Tournament in Munich - singles final match: Flavio Cobolli - Ben Shelton</title>
+  <programme channel="Sportklub.pl" start="20260426010000 -0500" stop="20260426031500 -0500">
+    <title lang="pl">Football: Greek League - match: MGS Panserraikos - Asteras Tripolis</title>
   </programme>
-  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260421040000 -0500" stop="20260421060000 -0500">
-    <title lang="pl">Men's handball: Polish Cup - semi-final match: ORLEN Wisła Płock - Industria Kielce</title>
+  <programme channel="Sportklub.pl" start="20260426031500 -0500" stop="20260426051500 -0500">
+    <title lang="pl">Men's basketball: Spanish League - match: Joventut Badalona - Kosner Baskonia Vitoria-Gasteiz</title>
   </programme>
-  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260421060000 -0500" stop="20260421080000 -0500">
-    <title lang="pl">Football: Italian league - match: Hellas Verona - AC Milan</title>
-    <desc lang="pl">Only a miracle can ensure Hellas stays in Serie A for another season.However, until the ball is in play, Paul Sammarco's players will not give up, just like Milan's players in the fight for the Scudetto.The Rossoneri will arrive in Verona with a strong determination to improve.They suffered defeats in the previous two rounds.The 0-1 loss against Napoli does not bring any disadvantage to them, but the 0-3 loss against Udinese gives reasons to worry about the morale of the Milan team.Only a high victory over the Yellow and Blue can blunt the criticism directed towards Massimiliano Allegri's team in recent days.</desc>
+  <programme channel="Sportklub.pl" start="20260426051500 -0500" stop="20260426072500 -0500">
+    <title lang="pl">Men's basketball: Spanish league - match: Kosner Baskonia Vitoria-Gasteiz - Barca</title>
   </programme>
-  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260421080000 -0500" stop="20260421090000 -0500">
-    <title lang="pl">KOTV Classics</title>
-    <desc lang="pl">A reminder and analysis of the greatest boxing fights in the history of this sport.It presents, among others:memorable fights.</desc>
-    <category lang="pl">magazyn bokserski</category>
+  <programme channel="Sportklub.pl" start="20260426072500 -0500" stop="20260426094000 -0500">
+    <title lang="pl">Football: Slovenian league - match: NS Mura - NK Bravo</title>
   </programme>
-  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260421090000 -0500" stop="20260421110000 -0500">
-    <title lang="pl">Football: Czech league - match: AC Sparta Prague - FK Jablonec</title>
+  <programme channel="Sportklub.pl" start="20260426094000 -0500" stop="20260426120000 -0500">
+    <title lang="pl">Men's basketball: Spanish league - match: CB San Pablo Burgos - Real Madrid</title>
   </programme>
-  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260421110000 -0500" stop="20260421131000 -0500">
-    <title lang="pl">Men's handball: Polish Cup - final match: ORLEN Wisła Płock - PGE Wybrzeże Gdańsk</title>
-    <desc lang="pl">With this match, Kalisz will say goodbye to the role of host of the most important Polish Cup competition.From next season, the final will be played in Gdańsk.The participants of this meeting will try to ensure that all handball fans in the country remember him for a long time.ORLEN Wisła Płock and PGE Wybrzeże Gdańsk face each other.In the semi-final, the Nafciarze eliminated the defending champion Industria Kielce (30:25).In turn, the team from Tricity turned out to be better than the host of the tournament, MKS Kalisz (31:29).As a result, he found himself in the final of the national cup for the first time in 48 years.</desc>
+  <programme channel="Sportklub.pl" start="20260426120000 -0500" stop="20260426135500 -0500">
+    <title lang="pl">Men's basketball: Spanish league - match: Valencia Basket - Real Madrid</title>
   </programme>
-  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260421131000 -0500" stop="20260421153000 -0500">
-    <title lang="pl">Men's basketball: ORLEN Basket Liga - match: AMW Arka Gdynia - WKS Śląsk Wrocław</title>
+  <programme channel="Sportklub.pl" start="20260426135500 -0500" stop="20260426161000 -0500">
+    <title lang="pl">Football: Greek League - match: PAE Atromitos - Asteras Tripolis</title>
   </programme>
-  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260421153000 -0500" stop="20260421160000 -0500">
-    <title lang="pl">Italian Cup Magazine</title>
-    <desc lang="pl">A program dedicated to the Coppa Italia football competition.Viewers will find there, among others:highlights of matches of individual rounds and interesting facts from the camps of teams taking part in the competition.</desc>
-    <category lang="pl">magazyn piłkarski</category>
+  <programme channel="Sportklub.pl" start="20260426161000 -0500" stop="20260426185500 -0500">
+    <title lang="pl">Equestrian: Longines FEI Jumping World Cup in Fort Worth - show jumping</title>
   </programme>
-  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260421160000 -0500" stop="20260421180000 -0500">
-    <title lang="pl">Football: German League - match: Borussia Mönchengladbach - 1. FSV Mainz 05</title>
+  <programme channel="Sportklub.pl" start="20260426185500 -0500" stop="20260426210000 -0500">
+    <title lang="pl">Football: Slovenian league - match: NS Mura - NK Bravo</title>
   </programme>
-  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260421180000 -0500" stop="20260421230000 -0500">
-    <title lang="pl">Combat sports: FEN 53 in Lubin - fight: Cezary Oleksiejczuk - Bauyrzhan Kuanyshbayev 16/03/2024</title>
+  <programme channel="Sportklub.pl" start="20260426210000 -0500" stop="20260426230000 -0500">
+    <title lang="pl">Men's basketball: Spanish league - match: Barca - Surne Bilbao Basket</title>
   </programme>
-  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260421230000 -0500" stop="20260422013000 -0500">
-    <title lang="pl">Tennis: ATP Tournament in Barcelona</title>
-    <desc lang="pl">The highest seeded player in the 73rd edition of the Barcelona Open was Carlos Alcaraz.However, the ATP ranking runner-up withdrew from the competition before the second round due to an injury.Other favorites didn't fare well either.As a result, only two seeded tennis players were in the semi-finals - Andrei Rublev and Arthur Fils.Both rose to the challenge, defeated their rivals, Hamad Medjedovic and Rafael Jodar, respectively, and entered the decisive duel.The Frenchman had a chance to win the first main series tournament since October 2024.</desc>
+  <programme channel="Sportklub.pl" start="20260426230000 -0500" stop="20260427010000 -0500">
+    <title lang="pl">Men's Basketball: Spanish League</title>
   </programme>
   <programme channel="Polsat.Sport.Extra.HD.pl" start="20260422013000 -0500" stop="20260422040000 -0500">
     <title lang="pl">Tennis: ATP Tournament in Barcelona</title>
@@ -1505,18 +1281,11 @@
   <programme channel="Polsat.Sport.Extra.HD.pl" start="20260422060000 -0500" stop="20260422080000 -0500">
     <title lang="pl">Football: Dutch Cup - final match: AZ Alkmaar - NEC Nijmegen</title>
   </programme>
-  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260422080000 -0500" stop="20260422090000 -0500">
-    <title lang="pl">Basketball magazine</title>
-    <desc lang="pl">A program dedicated to the men's basketball premier league.Match highlights of the last round, match analyses, announcements and interviews.</desc>
-    <category lang="pl">magazyn sportowy</category>
-  </programme>
-  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260422090000 -0500" stop="20260422110000 -0500">
+  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260422080000 -0500" stop="20260422100000 -0500">
     <title lang="pl">Football: German League - match: FC Bayern Munich - VfB Stuttgart</title>
   </programme>
-  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260422110000 -0500" stop="20260422123000 -0500">
-    <title lang="pl">Cafe Futbol</title>
-    <desc lang="pl">Polsat Sport journalists talk to their guests about football-related topics.The program will include, among others:interviews with football stars, polls and a review of recent events.</desc>
-    <category lang="pl">magazyn piłkarski</category>
+  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260422100000 -0500" stop="20260422123000 -0500">
+    <title lang="pl">Tennis: ATP Tournament in Madrid - 1st round singles match</title>
   </programme>
   <programme channel="Polsat.Sport.Extra.HD.pl" start="20260422123000 -0500" stop="20260422133000 -0500">
     <title lang="pl">FIA World Endurance Championship: 6 Hours of Imola - summary</title>
@@ -1537,19 +1306,13 @@
     <title lang="pl">Tennis: ATP Tournament in Madrid - 1st round singles match</title>
   </programme>
   <programme channel="Polsat.Sport.Extra.HD.pl" start="20260423040000 -0500" stop="20260423060000 -0500">
-    <title lang="pl">Football from the archives</title>
-    <desc lang="pl">The most interesting fragments of football matches that were remembered by fans.Fans will remember beautiful actions, amazing goals and phenomenal goalkeeper interventions.</desc>
-    <category lang="pl">magazyn piłkarski</category>
+    <title lang="pl">Football: Czech league - match: AC Sparta Prague - FK Jablonec</title>
   </programme>
   <programme channel="Polsat.Sport.Extra.HD.pl" start="20260423060000 -0500" stop="20260423080000 -0500">
-    <title lang="pl">Football from the archives</title>
-    <desc lang="pl">The most interesting fragments of football matches that were remembered by fans.Fans will remember beautiful actions, amazing goals and phenomenal goalkeeper interventions.</desc>
-    <category lang="pl">magazyn piłkarski</category>
+    <title lang="pl">Football: Coppa Italia - second leg semi-final match: Atalanta BC - SS Lazio</title>
   </programme>
   <programme channel="Polsat.Sport.Extra.HD.pl" start="20260423080000 -0500" stop="20260423103000 -0500">
-    <title lang="pl">Football from the archives</title>
-    <desc lang="pl">The most interesting fragments of football matches that were remembered by fans.Fans will remember beautiful actions, amazing goals and phenomenal goalkeeper interventions.</desc>
-    <category lang="pl">magazyn piłkarski</category>
+    <title lang="pl">Football: Coppa Italia - second leg semi-final match: Inter Milan - Como 1907</title>
   </programme>
   <programme channel="Polsat.Sport.Extra.HD.pl" start="20260423103000 -0500" stop="20260423135500 -0500">
     <title lang="pl">Men's volleyball: PLS 1st league - 2nd semi-final match of the play-off phase: BBTS Bielsko-Biała - CUK Angels Toruń</title>
@@ -1558,12 +1321,10 @@
     <title lang="pl">Football: Dutch league - match: PSV Eindhoven - PEC Zwolle</title>
   </programme>
   <programme channel="Polsat.Sport.Extra.HD.pl" start="20260423160000 -0500" stop="20260423180000 -0500">
-    <title lang="pl">Football from the archives</title>
-    <desc lang="pl">The most interesting fragments of football matches that were remembered by fans.Fans will remember beautiful actions, amazing goals and phenomenal goalkeeper interventions.</desc>
-    <category lang="pl">magazyn piłkarski</category>
+    <title lang="pl">Football: Coppa Italia - second leg semi-final match: Atalanta BC - SS Lazio</title>
   </programme>
   <programme channel="Polsat.Sport.Extra.HD.pl" start="20260423180000 -0500" stop="20260423230000 -0500">
-    <title lang="pl">Combat sports: FEN</title>
+    <title lang="pl">Combat sports: FEN 56 in Wrocław - fight: Tomasz Ostrowski - Łukasz Stanek 05/10/2024</title>
   </programme>
   <programme channel="Polsat.Sport.Extra.HD.pl" start="20260423230000 -0500" stop="20260424013000 -0500">
     <title lang="pl">Tennis: ATP Tournament in Madrid - 1st round singles match</title>
@@ -1636,54 +1397,58 @@
     <title lang="pl">Combat sports: FEN</title>
   </programme>
   <programme channel="Polsat.Sport.Extra.HD.pl" start="20260425230000 -0500" stop="20260426013000 -0500">
-    <title lang="pl">Football: German league</title>
+    <title lang="pl">Football: German League</title>
   </programme>
-  <programme channel="Polsat.Sport.News.HD.pl" start="20260421013000 -0500" stop="20260421040000 -0500">
-    <title lang="pl">Women's soccer: World Cup qualifying - match: France - Netherlands</title>
-  </programme>
-  <programme channel="Polsat.Sport.News.HD.pl" start="20260421040000 -0500" stop="20260421060000 -0500">
-    <title lang="pl">Football: Dutch Cup - final match: AZ Alkmaar - NEC Nijmegen</title>
-  </programme>
-  <programme channel="Polsat.Sport.News.HD.pl" start="20260421060000 -0500" stop="20260421080000 -0500">
-    <title lang="pl">Men's handball: Polish Cup - final match</title>
-    <desc lang="pl">With this match, Kalisz will say goodbye to the role of host of the most important Polish Cup competition.From next season, the final will be played in Gdańsk.The participants of this meeting will try to ensure that all handball fans in the country remember him for a long time.ORLEN Wisła Płock and PGE Wybrzeże Gdańsk face each other.In the semi-final, the Nafciarze eliminated the defending champion Industria Kielce (30:25).In turn, the players from Tricity turned out to be better than the host of the tournament, MKS Kalisz (31:29).As a result, they found themselves in the final of the national cup for the first time in 48 years.</desc>
-  </programme>
-  <programme channel="Polsat.Sport.News.HD.pl" start="20260421080000 -0500" stop="20260421100000 -0500">
-    <title lang="pl">Cafe Futbol</title>
-    <desc lang="pl">Polsat Sport journalists talk to their guests about football-related topics.The program will include, among others:interviews with football stars, polls and a review of recent events.</desc>
-    <category lang="pl">magazyn piłkarski</category>
-  </programme>
-  <programme channel="Polsat.Sport.News.HD.pl" start="20260421100000 -0500" stop="20260421120000 -0500">
-    <title lang="pl">Football: German League - match: FC Bayern Munich - VfB Stuttgart</title>
-  </programme>
-  <programme channel="Polsat.Sport.News.HD.pl" start="20260421120000 -0500" stop="20260421134000 -0500">
-    <title lang="pl">KOTV Classics</title>
-    <desc lang="pl">A reminder and analysis of the greatest boxing fights in the history of this sport.It presents, among others:memorable fights.</desc>
-    <category lang="pl">magazyn bokserski</category>
-  </programme>
-  <programme channel="Polsat.Sport.News.HD.pl" start="20260421134000 -0500" stop="20260421160000 -0500">
-    <title lang="pl">Men's basketball: EuroLeague - play-in match: Barca - Red Star Meridianbet Belgrade</title>
-  </programme>
-  <programme channel="Polsat.Sport.News.HD.pl" start="20260421160000 -0500" stop="20260421170000 -0500">
-    <title lang="pl">Basketball magazine</title>
-    <desc lang="pl">A program dedicated to the men's basketball premier league.Match highlights of the last round, match analyses, announcements and interviews.</desc>
+  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260426013000 -0500" stop="20260426020000 -0500">
+    <title lang="pl">Athletes</title>
+    <desc lang="pl">Atleci is a magazine for everyone who loves sport.The program includes reports from events, conversations with stars, as well as practical advice, interesting people and unique places on the sports map of Poland.</desc>
     <category lang="pl">magazyn sportowy</category>
   </programme>
-  <programme channel="Polsat.Sport.News.HD.pl" start="20260421170000 -0500" stop="20260421190000 -0500">
-    <title lang="pl">Tennis: ATP Tournament in Barcelona - singles final match</title>
+  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260426020000 -0500" stop="20260426040000 -0500">
+    <title lang="pl">Football: German League - match: 1. FSV Mainz 05 - FC Bayern Munich</title>
+    <desc lang="pl">The Bavarians already have the title of German champions in their pocket.Moreover, the team led by Vincent Kompany has already scored 160 goals in all competitions this season.In this way he broke the club record set six years ago.He will try to outdo him in the match against FSV Mainz.However, the Zero-Five can stand up to Bayern, which they proved in December when they drew 2-2 in Munich.They may be tempted to make an even bigger surprise in front of their home crowd, especially since the Munich team will be saving their strength for the first semi-final match of the Champions League against PSG.</desc>
   </programme>
-  <programme channel="Polsat.Sport.News.HD.pl" start="20260421190000 -0500" stop="20260421230000 -0500">
-    <title lang="pl">Combat sports: Babilon MMA 43 in Skierniewice - fight: Mateusz Makarowski - Krzysztof Mendlewski 22/03/2024</title>
+  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260426040000 -0500" stop="20260426060000 -0500">
+    <title lang="pl">Tennis: ATP Tournament in Madrid - 3rd round singles match</title>
   </programme>
-  <programme channel="Polsat.Sport.News.HD.pl" start="20260421230000 -0500" stop="20260422013000 -0500">
-    <title lang="pl">Football: German League - match: FC Bayern Munich - VfB Stuttgart</title>
+  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260426060000 -0500" stop="20260426080000 -0500">
+    <title lang="pl">Tennis: ATP Tournament in Madrid - 3rd round singles match</title>
+  </programme>
+  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260426080000 -0500" stop="20260426100000 -0500">
+    <title lang="pl">Football from the archives</title>
+    <desc lang="pl">The most interesting fragments of football matches that were remembered by fans.Fans will remember beautiful actions, amazing goals and phenomenal goalkeeper interventions.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+  </programme>
+  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260426100000 -0500" stop="20260426130000 -0500">
+    <title lang="pl">Tennis: ATP Tournament in Madrid - 3rd round singles match</title>
+  </programme>
+  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260426130000 -0500" stop="20260426133000 -0500">
+    <title lang="pl">Italian Cup Magazine</title>
+    <desc lang="pl">A program dedicated to the Coppa Italia football competition.Viewers will find there, among others:highlights of matches of individual rounds and interesting facts from the camps of teams taking part in the competition.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+  </programme>
+  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260426133000 -0500" stop="20260426160000 -0500">
+    <title lang="pl">Football from the archives</title>
+    <desc lang="pl">The most interesting fragments of football matches that were remembered by fans.Fans will remember beautiful actions, amazing goals and phenomenal goalkeeper interventions.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+  </programme>
+  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260426160000 -0500" stop="20260426180000 -0500">
+    <title lang="pl">Football from the archives</title>
+    <desc lang="pl">The most interesting fragments of football matches that were remembered by fans.Fans will remember beautiful actions, amazing goals and phenomenal goalkeeper interventions.</desc>
+    <category lang="pl">magazyn piłkarski</category>
+  </programme>
+  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260426180000 -0500" stop="20260426230000 -0500">
+    <title lang="pl">Combat sports: FEN</title>
+  </programme>
+  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260426230000 -0500" stop="20260427013000 -0500">
+    <title lang="pl">Tennis: ATP Tournament in Madrid - 3rd round singles match</title>
   </programme>
   <programme channel="Polsat.Sport.News.HD.pl" start="20260422013000 -0500" stop="20260422040000 -0500">
     <title lang="pl">Men's basketball: ORLEN Basket Liga - match: AMW Arka Gdynia - WKS Śląsk Wrocław</title>
   </programme>
   <programme channel="Polsat.Sport.News.HD.pl" start="20260422040000 -0500" stop="20260422063000 -0500">
     <title lang="pl">Men's handball: Polish Cup - final match: ORLEN Wisła Płock - PGE Wybrzeże Gdańsk</title>
-    <desc lang="pl">With this match, Kalisz will say goodbye to the role of host of the most important Polish Cup competition.From next season, the final will be played in Gdańsk.The participants of this meeting will try to ensure that all handball fans in the country remember him for a long time.ORLEN Wisła Płock and PGE Wybrzeże Gdańsk face each other.In the semi-final, the Nafciarze eliminated the defending champion Industria Kielce (30:25).In turn, the team from Tricity turned out to be better than the host of the tournament, MKS Kalisz (31:29).As a result, he found himself in the final of the national cup for the first time in 48 years.</desc>
+    <desc lang="pl">With this match, Kalisz will say goodbye to the role of host of the most important Polish Cup competition.From next season, the final will be played in Gdańsk.The participants of this meeting will try to ensure that all handball fans in the country remember him for a long time.ORLEN Wisła Płock and PGE Wybrzeże Gdańsk face each other.In the semi-final, the Nafciarze eliminated the defending champion Industria Kielce (30:25).In turn, the team from Tricity turned out to be better than the tournament host, MKS Kalisz (31:29).As a result, he found himself in the final of the national cup for the first time in 48 years.</desc>
   </programme>
   <programme channel="Polsat.Sport.News.HD.pl" start="20260422063000 -0500" stop="20260422090000 -0500">
     <title lang="pl">Football: Czech league - match: AC Sparta Prague - FK Jablonec</title>
@@ -1691,11 +1456,11 @@
   <programme channel="Polsat.Sport.News.HD.pl" start="20260422090000 -0500" stop="20260422110000 -0500">
     <title lang="pl">Football: Italian league - match: Inter Milan - Cagliari Calcio</title>
   </programme>
-  <programme channel="Polsat.Sport.News.HD.pl" start="20260422110000 -0500" stop="20260422133000 -0500">
+  <programme channel="Polsat.Sport.News.HD.pl" start="20260422110000 -0500" stop="20260422132500 -0500">
     <title lang="pl">Football: Coppa Italia - second leg semi-final match: Inter Milan - Como 1907</title>
   </programme>
-  <programme channel="Polsat.Sport.News.HD.pl" start="20260422133000 -0500" stop="20260422153000 -0500">
-    <title lang="pl">Men's basketball: ORLEN Basket Liga - match: AMW Arka Gdynia - WKS Śląsk Wrocław</title>
+  <programme channel="Polsat.Sport.News.HD.pl" start="20260422132500 -0500" stop="20260422153000 -0500">
+    <title lang="pl">Women's volleyball: Italian league - 4th final match of the play-off phase: Vero Volley Milano - Prosecco Doc A.Carraro Imoco Conegliano</title>
   </programme>
   <programme channel="Polsat.Sport.News.HD.pl" start="20260422153000 -0500" stop="20260422180000 -0500">
     <title lang="pl">Tennis: ATP Tournament in Madrid - 1st round singles match</title>
@@ -1704,41 +1469,32 @@
     <title lang="pl">Combat sports: Babilon MMA 32 in Radom - fight: Konrad Rusiński - Łukasz Siwiec 11/11/2022</title>
   </programme>
   <programme channel="Polsat.Sport.News.HD.pl" start="20260422230000 -0500" stop="20260423013000 -0500">
-    <title lang="pl">Men's handball: ORLEN Polish Cup</title>
+    <title lang="pl">Men's handball: Polish Cup - final match: ORLEN Wisła Płock - PGE Wybrzeże Gdańsk</title>
+    <desc lang="pl">With this match, Kalisz will say goodbye to the role of host of the most important Polish Cup competition.From next season, the final will be played in Gdańsk.The participants of this meeting will try to ensure that all handball fans in the country remember him for a long time.ORLEN Wisła Płock and PGE Wybrzeże Gdańsk face each other.In the semi-final, the Nafciarze eliminated the defending champion Industria Kielce (30:25).In turn, the team from Tricity turned out to be better than the tournament host, MKS Kalisz (31:29).As a result, he found himself in the final of the national cup for the first time in 48 years.</desc>
   </programme>
   <programme channel="Polsat.Sport.News.HD.pl" start="20260423013000 -0500" stop="20260423040000 -0500">
-    <title lang="pl">Football from the archives</title>
-    <desc lang="pl">The most interesting fragments of football matches that were remembered by fans.Fans will remember beautiful actions, amazing goals and phenomenal goalkeeper interventions.</desc>
-    <category lang="pl">magazyn piłkarski</category>
+    <title lang="pl">Football: Coppa Italia - second leg semi-final match: Atalanta BC - SS Lazio</title>
   </programme>
   <programme channel="Polsat.Sport.News.HD.pl" start="20260423040000 -0500" stop="20260423063000 -0500">
-    <title lang="pl">Men's basketball: ORLEN Basket Liga</title>
+    <title lang="pl">Women's volleyball: Italian league - 4th final match of the play-off phase: Vero Volley Milano - Prosecco Doc A.Carraro Imoco Conegliano</title>
   </programme>
   <programme channel="Polsat.Sport.News.HD.pl" start="20260423063000 -0500" stop="20260423090000 -0500">
-    <title lang="pl">Football from the archives</title>
-    <desc lang="pl">The most interesting fragments of football matches that were remembered by fans.Fans will remember beautiful actions, amazing goals and phenomenal goalkeeper interventions.</desc>
-    <category lang="pl">magazyn piłkarski</category>
+    <title lang="pl">Football: Dutch Cup - final match: AZ Alkmaar - NEC Nijmegen</title>
   </programme>
   <programme channel="Polsat.Sport.News.HD.pl" start="20260423090000 -0500" stop="20260423110000 -0500">
-    <title lang="pl">Football from the archives</title>
-    <desc lang="pl">The most interesting fragments of football matches that were remembered by fans.Fans will remember beautiful actions, amazing goals and phenomenal goalkeeper interventions.</desc>
-    <category lang="pl">magazyn piłkarski</category>
+    <title lang="pl">Women's handball: ORLEN Superliga Women - match: Enea MKS Gniezno - Krasoń MKS Piotrcovia</title>
   </programme>
   <programme channel="Polsat.Sport.News.HD.pl" start="20260423110000 -0500" stop="20260423130000 -0500">
-    <title lang="pl">Football from the archives</title>
-    <desc lang="pl">The most interesting fragments of football matches that were remembered by fans.Fans will remember beautiful actions, amazing goals and phenomenal goalkeeper interventions.</desc>
-    <category lang="pl">magazyn piłkarski</category>
+    <title lang="pl">Football: Coppa Italia - second leg semi-final match: Atalanta BC - SS Lazio</title>
   </programme>
   <programme channel="Polsat.Sport.News.HD.pl" start="20260423130000 -0500" stop="20260423153000 -0500">
-    <title lang="pl">Tennis: ATP Tournament in Barcelona</title>
-    <desc lang="pl">The highest seeded player in the 73rd edition of the Barcelona Open was Carlos Alcaraz.However, the ATP ranking runner-up withdrew from the competition before the second round due to an injury.Other favorites didn't fare well either.As a result, only two seeded tennis players were in the semi-finals - Andrei Rublev and Arthur Fils.Both rose to the challenge, defeated their rivals, Hamad Medjedovic and Rafael Jodar, respectively, and entered the decisive duel.The Frenchman had a chance to win the first main series tournament since October 2024.</desc>
+    <title lang="pl">Tennis: ATP Tournament in Madrid - 1st round singles match</title>
   </programme>
   <programme channel="Polsat.Sport.News.HD.pl" start="20260423153000 -0500" stop="20260423180000 -0500">
-    <title lang="pl">Tennis: ATP Tournament in Barcelona</title>
-    <desc lang="pl">The highest seeded player in the 73rd edition of the Barcelona Open was Carlos Alcaraz.However, the ATP ranking runner-up withdrew from the competition before the second round due to an injury.Other favorites didn't fare well either.As a result, only two seeded tennis players were in the semi-finals - Andrei Rublev and Arthur Fils.Both rose to the challenge, defeated their rivals, Hamad Medjedovic and Rafael Jodar, respectively, and entered the decisive duel.The Frenchman had a chance to win the first main series tournament since October 2024.</desc>
+    <title lang="pl">Tennis: ATP Tournament in Madrid - 1st round singles match</title>
   </programme>
   <programme channel="Polsat.Sport.News.HD.pl" start="20260423180000 -0500" stop="20260423230000 -0500">
-    <title lang="pl">Combat sports: Babylon MMA</title>
+    <title lang="pl">Combat sports: Babilon MMA 47 in Wieliczka - welterweight: Rafał Dudek - Anatoly Hunanyan 28/09/2024</title>
   </programme>
   <programme channel="Polsat.Sport.News.HD.pl" start="20260423230000 -0500" stop="20260424013000 -0500">
     <title lang="pl">Men's basketball: ORLEN Basket Liga</title>
@@ -1768,15 +1524,16 @@
   </programme>
   <programme channel="Polsat.Sport.News.HD.pl" start="20260424134000 -0500" stop="20260424154500 -0500">
     <title lang="pl">Football: German League - match: RB Leipzig - 1. FC Union Berlin</title>
+    <desc lang="pl">Until recently, it seemed that RB Leipzig could only fight to finish the season in third place.However, Borussia Dortmund surprised with two defeats in a row and the Red Bulls will certainly try to fight for the runner-up position.In the 31st round they will face Union Berlin, which is not in the best shape - in the last four matches it recorded one draw and three defeats.With this victory, the team from Leipzig can extend its series of league wins - they have four of them so far.</desc>
   </programme>
   <programme channel="Polsat.Sport.News.HD.pl" start="20260424154500 -0500" stop="20260424160000 -0500">
-    <title lang="pl">Head of the Super League</title>
+    <title lang="pl">Super League boss</title>
     <desc lang="pl">A series of interviews with players playing in ORLEN Superliga clubs.In addition to talking about various topics, fans will see how the players perform tasks that test their sports skills.</desc>
     <category lang="pl">magazyn sportowy</category>
   </programme>
   <programme channel="Polsat.Sport.News.HD.pl" start="20260424160000 -0500" stop="20260424170000 -0500">
     <title lang="pl">Handball Arena</title>
-    <desc lang="pl">A program dedicated to the Super League games.Topics related to the Polish national team and the Champions League will find an important place there.Fans will watch match reports and receive some news from the world of handball.</desc>
+    <desc lang="pl">A program dedicated to the Super League games.Topics related to the Polish national team and the Champions League will find an important place there.Fans will watch match reports and receive a portion of news from the world of handball.</desc>
     <category lang="pl">magazyn sportowy</category>
   </programme>
   <programme channel="Polsat.Sport.News.HD.pl" start="20260424170000 -0500" stop="20260424190000 -0500">
@@ -1828,38 +1585,39 @@
   <programme channel="Polsat.Sport.News.HD.pl" start="20260425230000 -0500" stop="20260426013000 -0500">
     <title lang="pl">Men's basketball: ORLEN Basket Liga</title>
   </programme>
-  <programme channel="Polsat.Sport.pl" start="20260421020000 -0500" stop="20260421030000 -0500">
-    <title lang="pl">Polsat SiatCast</title>
-    <desc lang="pl">Volleyball arouses great emotions in Poland.They will also be featured in the new TV and Internet program.Marek Magiera and Jakub Bednaruk will often juxtapose extremely different opinions.</desc>
-    <date>2024</date>
-    <category lang="pl">magazyn siatkarski</category>
+  <programme channel="Polsat.Sport.News.HD.pl" start="20260426013000 -0500" stop="20260426023000 -0500">
+    <title lang="pl">Sports magazine</title>
+    <category lang="pl">magazyn sportowy</category>
   </programme>
-  <programme channel="Polsat.Sport.pl" start="20260421030000 -0500" stop="20260421053000 -0500">
-    <title lang="pl">Men's volleyball: PlusLiga - 2nd semi-final match of the play-off phase: Bogdanka LUK Lublin - PGE Projekt Warszawa</title>
+  <programme channel="Polsat.Sport.News.HD.pl" start="20260426023000 -0500" stop="20260426043000 -0500">
+    <title lang="pl">Horse racing: British Champions Day</title>
   </programme>
-  <programme channel="Polsat.Sport.pl" start="20260421053000 -0500" stop="20260421080000 -0500">
-    <title lang="pl">Women's volleyball: TAURON Liga - 2nd final match of the play-off phase: PGE Budowlani Łódź - KS DevelopRes Rzeszów</title>
+  <programme channel="Polsat.Sport.News.HD.pl" start="20260426043000 -0500" stop="20260426053000 -0500">
+    <title lang="pl">Sports magazine</title>
+    <category lang="pl">magazyn sportowy</category>
   </programme>
-  <programme channel="Polsat.Sport.pl" start="20260421080000 -0500" stop="20260421103000 -0500">
-    <title lang="pl">Men's volleyball: PlusLiga - 2nd semi-final match of the play-off phase: Asseco Resovia Rzeszów - Aluron CMC Warta Zawiercie</title>
+  <programme channel="Polsat.Sport.News.HD.pl" start="20260426053000 -0500" stop="20260426080000 -0500">
+    <title lang="pl">Men's handball: ORLEN Superliga</title>
   </programme>
-  <programme channel="Polsat.Sport.pl" start="20260421103000 -0500" stop="20260421135500 -0500">
-    <title lang="pl">Women's volleyball: TAURON Liga - 3rd place match of the play-off phase: UNI Opole - BKS BOSTIK ZGO Bielsko-Biała</title>
+  <programme channel="Polsat.Sport.News.HD.pl" start="20260426080000 -0500" stop="20260426102500 -0500">
+    <title lang="pl">Football from the archives</title>
+    <desc lang="pl">The most interesting fragments of football matches that were remembered by fans.Fans will remember beautiful actions, amazing goals and phenomenal goalkeeper interventions.</desc>
+    <category lang="pl">magazyn piłkarski</category>
   </programme>
-  <programme channel="Polsat.Sport.pl" start="20260421135500 -0500" stop="20260421160000 -0500">
-    <title lang="pl">Football: Coppa Italia - second leg semi-final match: Inter Milan - Como 1907</title>
+  <programme channel="Polsat.Sport.News.HD.pl" start="20260426102500 -0500" stop="20260426130000 -0500">
+    <title lang="pl">Men's basketball: ORLEN Basket Liga - match: PGE Start Lublin - TAURON GTK Gliwice</title>
   </programme>
-  <programme channel="Polsat.Sport.pl" start="20260421160000 -0500" stop="20260421180000 -0500">
-    <title lang="pl">Men's volleyball: PlusLiga - match for 5th place in the play-off phase: Indykpol AZS Olsztyn - PGE GieK Skra Bełchatów</title>
+  <programme channel="Polsat.Sport.News.HD.pl" start="20260426130000 -0500" stop="20260426153000 -0500">
+    <title lang="pl">Tennis: ATP Tournament in Madrid</title>
   </programme>
-  <programme channel="Polsat.Sport.pl" start="20260421180000 -0500" stop="20260421200000 -0500">
-    <title lang="pl">Women's volleyball: TAURON Liga - 3rd place match of the play-off phase: UNI Opole - BKS BOSTIK ZGO Bielsko-Biała</title>
+  <programme channel="Polsat.Sport.News.HD.pl" start="20260426153000 -0500" stop="20260426180000 -0500">
+    <title lang="pl">Tennis: ATP Tournament in Madrid</title>
   </programme>
-  <programme channel="Polsat.Sport.pl" start="20260421200000 -0500" stop="20260421230000 -0500">
-    <title lang="pl">Men's volleyball: PlusLiga - 2nd semi-final match of the play-off phase: Asseco Resovia Rzeszów - Aluron CMC Warta Zawiercie</title>
+  <programme channel="Polsat.Sport.News.HD.pl" start="20260426180000 -0500" stop="20260426230000 -0500">
+    <title lang="pl">Combat sports: Babylon MMA</title>
   </programme>
-  <programme channel="Polsat.Sport.pl" start="20260421230000 -0500" stop="20260422020000 -0500">
-    <title lang="pl">Men's volleyball: PlusLiga - 2nd semi-final match of the play-off phase: Asseco Resovia Rzeszów - Aluron CMC Warta Zawiercie</title>
+  <programme channel="Polsat.Sport.News.HD.pl" start="20260426230000 -0500" stop="20260427013000 -0500">
+    <title lang="pl">Men's basketball: ORLEN Basket Liga</title>
   </programme>
   <programme channel="Polsat.Sport.pl" start="20260422020000 -0500" stop="20260422030000 -0500">
     <title lang="pl">Polsat Futbol Cast</title>
@@ -2009,73 +1767,34 @@
   <programme channel="Polsat.Sport.pl" start="20260425230000 -0500" stop="20260426010000 -0500">
     <title lang="pl">Men's volleyball: PlusLiga - play-off match</title>
   </programme>
-  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260421000000 -0500" stop="20260421021500 -0500">
-    <title lang="pl">Combat sports: MMA NIGHT 12: Koszalin - fight: Łukasz Parobiec - Rafał Jaszczuk 07/03/2026</title>
+  <programme channel="Polsat.Sport.pl" start="20260426010000 -0500" stop="20260426040000 -0500">
+    <title lang="pl">Men's volleyball: PlusLiga - play-off match</title>
   </programme>
-  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260421021500 -0500" stop="20260421024000 -0500">
-    <title lang="pl">Athletes</title>
-    <desc lang="pl">Atleci is a magazine for everyone who loves sport.The program includes reports from events, conversations with stars, as well as practical advice, interesting people and unique places on the sports map of Poland.</desc>
-    <category lang="pl">magazyn sportowy</category>
+  <programme channel="Polsat.Sport.pl" start="20260426040000 -0500" stop="20260426053000 -0500">
+    <title lang="pl">Cafe Futbol</title>
+    <desc lang="pl">Polsat Sport journalists talk to their guests about football-related topics.The program will include, among others:interviews with football stars, polls and a review of recent events.</desc>
+    <category lang="pl">magazyn piłkarski</category>
   </programme>
-  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260421024000 -0500" stop="20260421052000 -0500">
-    <title lang="pl">Boxing: Babilon Boxing Show in Chojnice - light heavyweight: Paweł Stępień - Szerzod Chusanow 20/09/2024</title>
+  <programme channel="Polsat.Sport.pl" start="20260426053000 -0500" stop="20260426080000 -0500">
+    <title lang="pl">Men's basketball: ORLEN Basket Liga - match: Legia Warszawa - AMW Arka Gdynia</title>
   </programme>
-  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260421052000 -0500" stop="20260421072500 -0500">
-    <title lang="pl">Combat sports: Babilon MMA 51 in Ciechanów - heavyweight: Szymon Kołecki - Przemysław Mysiala 14/03/2025</title>
+  <programme channel="Polsat.Sport.pl" start="20260426080000 -0500" stop="20260426103000 -0500">
+    <title lang="pl">Tennis: ATP Tournament in Madrid - 3rd round singles match</title>
   </programme>
-  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260421072500 -0500" stop="20260421081500 -0500">
-    <title lang="pl">K.O.TV Classics</title>
-    <desc lang="pl">A reminder and analysis of the greatest boxing fights in the history of this sport.It presents, among others:memorable fights.</desc>
-    <category lang="pl">magazyn bokserski</category>
-    <episode-num system="onscreen">E12</episode-num>
+  <programme channel="Polsat.Sport.pl" start="20260426103000 -0500" stop="20260426130000 -0500">
+    <title lang="pl">Women's volleyball: TAURON Liga - 4th final match of the play-off phase: PGE Budowlani Łódź - KS DevelopRes Rzeszów</title>
   </programme>
-  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260421081500 -0500" stop="20260421103500 -0500">
-    <title lang="pl">Combat sports: Babilon Boxing Show &amp; K1 in Nowy Dwór Mazowiecki - fight: Jan Lodzik - Juanmi Martinez 23/02/2024</title>
+  <programme channel="Polsat.Sport.pl" start="20260426130000 -0500" stop="20260426160000 -0500">
+    <title lang="pl">Men's volleyball: PLS 1st league - 3rd semi-final match of the play-off phase: GKS Katowice - KKS Mickiewicz Kluczbork</title>
   </programme>
-  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260421103500 -0500" stop="20260421123000 -0500">
-    <title lang="pl">Combat sports: FEN 58 in Częstochowa - fight: Wawrzyniec Bartnik - Jacek Jędraszczyk 01/03/2025</title>
+  <programme channel="Polsat.Sport.pl" start="20260426160000 -0500" stop="20260426180000 -0500">
+    <title lang="pl">Men's volleyball: PlusLiga - play-off match</title>
   </programme>
-  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260421123000 -0500" stop="20260421130000 -0500">
-    <title lang="pl">From the ESPN archives</title>
-    <sub-title lang="pl">Mike Tyson Greatest Hits, część 3</sub-title>
-    <desc lang="pl">A reminder of the fights that aroused exceptional emotions in the boxing world.Viewers will once again see the clashes of the biggest stars of Polish and foreign boxing.</desc>
-    <category lang="pl">magazyn bokserski</category>
+  <programme channel="Polsat.Sport.pl" start="20260426180000 -0500" stop="20260426230000 -0500">
+    <title lang="pl">Box</title>
   </programme>
-  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260421130000 -0500" stop="20260421134500 -0500">
-    <title lang="pl">Renata Mauer's shooting range</title>
-    <sub-title lang="pl">Pistolet szybkostrzelny</sub-title>
-    <desc lang="pl">Viewers will learn about various sports shooting competitions.They will learn how to start training and learn the differences between individual weapons, including:a smoothbore shotgun and a ball rifle.</desc>
-    <date>2020</date>
-    <category lang="pl">program sportowy</category>
-    <episode-num system="onscreen">E4</episode-num>
-  </programme>
-  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260421134500 -0500" stop="20260421143500 -0500">
-    <title lang="pl">Naval Shooting Range</title>
-    <sub-title lang="pl">Karabinki AR</sub-title>
-    <desc lang="pl">The program introduces viewers to the secrets of shooting.Types of weapons will be characterized and issues related to, among others, discussed:with hunting.Polish sports stars will be subjected to shooting tests.</desc>
-    <date>2020</date>
-    <category lang="pl">magazyn sportowy</category>
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260421143500 -0500" stop="20260421170000 -0500">
-    <title lang="pl">Combat sports: UFC 320 - fight: Magomed Ankalaev - Alex Pereira 2 05/10/2025</title>
-  </programme>
-  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260421170000 -0500" stop="20260421195500 -0500">
-    <title lang="pl">Boxing: Polsat Boxing Promotions 6 in Będzin - heavyweight: Marcin Siwy - Rydell Booker 26/03/2022</title>
-  </programme>
-  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260421195500 -0500" stop="20260421202000 -0500">
-    <title lang="pl">Athletes</title>
-    <desc lang="pl">Atleci is a magazine for everyone who loves sport.The program includes reports from events, conversations with stars, as well as practical advice, interesting people and unique places on the sports map of Poland.</desc>
-    <category lang="pl">magazyn sportowy</category>
-  </programme>
-  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260421202000 -0500" stop="20260421215500 -0500">
-    <title lang="pl">Combat sports: One Punch in Ostrowiec Świętokrzyski - heavyweight: Rafał Witkowski - Rafał Jaszczuk 24/01/2025</title>
-  </programme>
-  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260421215500 -0500" stop="20260421231000 -0500">
-    <title lang="pl">Combat sports: Babilon MMA 39 in Radom - fight: Piotr Kacprzak - Szymon Rakowicz 30/09/2023</title>
-  </programme>
-  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260421231000 -0500" stop="20260422000000 -0500">
-    <title lang="pl">Boxing: Gala in Szczytno - heavyweight: Damian Knyba - Knife Didier 04/03/2022</title>
+  <programme channel="Polsat.Sport.pl" start="20260426230000 -0500" stop="20260427020000 -0500">
+    <title lang="pl">Men's volleyball: PlusLiga - play-off match</title>
   </programme>
   <programme channel="Polsat.Sport.Fight.HD.pl" start="20260422000000 -0500" stop="20260422002500 -0500">
     <title lang="pl">Athletes</title>
@@ -2270,5 +1989,56 @@
   </programme>
   <programme channel="Polsat.Sport.Fight.HD.pl" start="20260425224500 -0500" stop="20260426000000 -0500">
     <title lang="pl">Combat sports: Babilon MMA 40 in Wieliczka - fight: Filip Lamparski - Mateusz Makarowski 07/10/2023</title>
+  </programme>
+  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260426000000 -0500" stop="20260426023500 -0500">
+    <title lang="pl">Boxing: Rocky Boxing Night 19 in Karlino - welterweight: Jan Lodzik - Mateusz Polski 2 08/06/2024</title>
+  </programme>
+  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260426023500 -0500" stop="20260426044000 -0500">
+    <title lang="pl">Combat sports: Thunderstrike Fight League 34 in Przytyk - fight: Karol Skrzypek - Kamil Szymuszowski 28/06/2025</title>
+  </programme>
+  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260426044000 -0500" stop="20260426052500 -0500">
+    <title lang="pl">Renata Mauer's shooting range</title>
+    <sub-title lang="pl">Pistolet szybkostrzelny</sub-title>
+    <desc lang="pl">Viewers will learn about various sports shooting competitions.They will learn how to start training and learn the differences between individual weapons, including:a smoothbore shotgun and a ball rifle.</desc>
+    <date>2020</date>
+    <category lang="pl">program sportowy</category>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260426052500 -0500" stop="20260426074000 -0500">
+    <title lang="pl">Combat sports: FEN 59 in Lubin - fight: Damian Rzepecki - Patryk Duński 21/06/2025</title>
+  </programme>
+  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260426074000 -0500" stop="20260426103500 -0500">
+    <title lang="pl">Boxing: Babilon Boxing Show in Ożarów Mazowiecki - super light weight: Adrianna Jędrzejczyk - Helene Connart 15/11/2025</title>
+  </programme>
+  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260426103500 -0500" stop="20260426114500 -0500">
+    <title lang="pl">From the ESPN archives</title>
+    <sub-title lang="pl">Walka o pasy WBC i WBA w Toronto - waga ciężka: Muhammad Ali - George Chuvalo 29.03.1966</sub-title>
+    <desc lang="pl">A reminder of the fights that aroused exceptional emotions in the boxing world.Viewers will once again see the clashes of the biggest stars of Polish and foreign boxing.</desc>
+    <category lang="pl">magazyn bokserski</category>
+  </programme>
+  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260426114500 -0500" stop="20260426134500 -0500">
+    <title lang="pl">Combat sports: Babilon MMA 42 in Żyrardów - fight: Bartłomiej Gładkowicz - Sergiusz Zając 22/11/2024</title>
+  </programme>
+  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260426134500 -0500" stop="20260426161500 -0500">
+    <title lang="pl">Boxing: Rocky Boxing Night in Sopot - junior heavyweight: Nikodem Jeżewski - Marko Calic 13/12/2025</title>
+  </programme>
+  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260426161500 -0500" stop="20260426175000 -0500">
+    <title lang="pl">Combat sports: Hybrid MMA 9 - New Deal - fight: Oleksii Polishchuk - Edgar Javier Davalos Nunez 13/09/2025</title>
+    <desc lang="pl">During the competition in the Milenium Hall in Kołobrzeg, martial arts fans will watch several interesting duels.In the most important of them, Oleksii Polishchuk, who has so far appeared in galas under the KSW banner, will face Edgar Javier Davalos Nunez.Łukasz Szulc will say goodbye to the Hybrid MMA organization with a fight against Rafał Lewon.Their fight will take place under boxing rules.The fans will also be warmed up by fights between the favorite of the Kołobrzeg audience, Damian Mieczkowski and Patryk Domarus, and Michał Hawro and Gabriel Gilthon.</desc>
+  </programme>
+  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260426175000 -0500" stop="20260426184000 -0500">
+    <title lang="pl">K.O.TV Classics</title>
+    <desc lang="pl">A reminder and analysis of the greatest boxing fights in the history of this sport.It presents, among others:memorable fights.</desc>
+    <category lang="pl">magazyn bokserski</category>
+    <episode-num system="onscreen">E50</episode-num>
+  </programme>
+  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260426184000 -0500" stop="20260426203500 -0500">
+    <title lang="pl">Combat sports: Babilon MMA 35 in Jaworzno - fight: Piotr Wawrzyniak - Adrian Błeszyński 21/04/2023</title>
+  </programme>
+  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260426203500 -0500" stop="20260426221500 -0500">
+    <title lang="pl">Combat sports: Kickboxing Fight Night 1 - fight: Rafał Dudek - Mohammed El Mir 12/06/2021</title>
+  </programme>
+  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260426221500 -0500" stop="20260427000000 -0500">
+    <title lang="pl">Boxing: Polsat Boxing Promotions 7 in Lublin - super middleweight: Osleys Iglesias - Isaac Chilemba 27/05/2022</title>
   </programme>
   </tv>
