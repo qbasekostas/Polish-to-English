@@ -1,39 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv><channel id="Sportklub.pl">
-    <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">Sportklub</display-name>
-  </channel>
-  <channel id="Polsat.Sport.Extra.HD.pl">
-    <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">Polsat Sport Extra HD</display-name>
-  </channel>
-  <channel id="Polsat.Sport.pl">
-    <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">Polsat Sport</display-name>
-  </channel>
-  <channel id="Polsat.Sport.Premium.3.pl">
-    <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">Polsat Sport Premium 3</display-name>
-  </channel>
-  <channel id="Polsat.Sport.Fight.HD.pl">
+<tv><channel id="Polsat.Sport.Fight.HD.pl">
     <url>http://www.tv.wp.pl</url>
     <display-name lang="pl">Polsat Sport Fight HD</display-name>
-  </channel>
-  <channel id="Polsat.Sport.News.HD.pl">
-    <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">Polsat Sport News HD</display-name>
-  </channel>
-  <channel id="Polsat.Sport.Premium.6.pl">
-    <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">Polsat Sport Premium 6</display-name>
   </channel>
   <channel id="Polsat.Sport.Premium.4.pl">
     <url>http://www.tv.wp.pl</url>
     <display-name lang="pl">Polsat Sport Premium 4</display-name>
   </channel>
-  <channel id="Sportklub.HD.pl">
+  <channel id="Polsat.Sport.Premium.1.pl">
     <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">Sportklub HD</display-name>
+    <display-name lang="pl">Polsat Sport Premium 1</display-name>
+  </channel>
+  <channel id="Sportklub.pl">
+    <url>http://www.tv.wp.pl</url>
+    <display-name lang="pl">Sportklub</display-name>
+  </channel>
+  <channel id="Polsat.Sport.Premium.6.pl">
+    <url>http://www.tv.wp.pl</url>
+    <display-name lang="pl">Polsat Sport Premium 6</display-name>
+  </channel>
+  <channel id="Polsat.Sport.Premium.3.pl">
+    <url>http://www.tv.wp.pl</url>
+    <display-name lang="pl">Polsat Sport Premium 3</display-name>
+  </channel>
+  <channel id="Polsat.Sport.pl">
+    <url>http://www.tv.wp.pl</url>
+    <display-name lang="pl">Polsat Sport</display-name>
+  </channel>
+  <channel id="Polsat.Sport.News.HD.pl">
+    <url>http://www.tv.wp.pl</url>
+    <display-name lang="pl">Polsat Sport News HD</display-name>
   </channel>
   <channel id="Polsat.Sport.Premium.2.pl">
     <url>http://www.tv.wp.pl</url>
@@ -43,93 +39,55 @@
     <url>http://www.tv.wp.pl</url>
     <display-name lang="pl">Polsat Sport Premium 5</display-name>
   </channel>
-  <channel id="Polsat.Sport.Premium.1.pl">
+  <channel id="Polsat.Sport.Extra.HD.pl">
     <url>http://www.tv.wp.pl</url>
-    <display-name lang="pl">Polsat Sport Premium 1</display-name>
+    <display-name lang="pl">Polsat Sport Extra HD</display-name>
   </channel>
-  <programme channel="Sportklub.HD.pl" start="20260702011500 -0500" stop="20260702032000 -0500">
-    <title lang="pl">Football: Greek League - match: PAOK FC - AEK Athens</title>
+  <channel id="Sportklub.HD.pl">
+    <url>http://www.tv.wp.pl</url>
+    <display-name lang="pl">Sportklub HD</display-name>
+  </channel>
+  <programme channel="Sportklub.HD.pl" start="20260703013000 -0500" stop="20260703033000 -0500">
+    <title lang="pl">Football: Greek League - match: MGS Panserraikos - Asteras Tripolis</title>
   </programme>
-  <programme channel="Sportklub.HD.pl" start="20260702032000 -0500" stop="20260702052500 -0500">
-    <title lang="pl">Football: Greek League - match: Levadiakos FC - Volos NPS</title>
+  <programme channel="Sportklub.HD.pl" start="20260703033000 -0500" stop="20260703052000 -0500">
+    <title lang="pl">Equestrian: League of Nations - Ocala</title>
   </programme>
-  <programme channel="Sportklub.HD.pl" start="20260702052500 -0500" stop="20260702080500 -0500">
-    <title lang="pl">Men's basketball: Spanish league - match: UCAM Murcia - Basquet Girona</title>
+  <programme channel="Sportklub.HD.pl" start="20260703052000 -0500" stop="20260703072500 -0500">
+    <title lang="pl">Football: Greek League - match: Asteras Tripolis - AE Kifisia</title>
   </programme>
-  <programme channel="Sportklub.HD.pl" start="20260702080500 -0500" stop="20260702100500 -0500">
-    <title lang="pl">Horse riding - show jumping</title>
-    <sub-title lang="pl">Longines FEI Jumping World Cup w Fort Worth</sub-title>
+  <programme channel="Sportklub.HD.pl" start="20260703072500 -0500" stop="20260703110000 -0500">
+    <title lang="pl">Equestrian: Longines FEI Jumping World Cup in Fort Worth - dressage</title>
   </programme>
-  <programme channel="Sportklub.HD.pl" start="20260702100500 -0500" stop="20260702123500 -0500">
-    <title lang="pl">Men's basketball: Spanish league - match: Unicaja Malaga - Surne Bilbao Basket</title>
+  <programme channel="Sportklub.HD.pl" start="20260703110000 -0500" stop="20260703131000 -0500">
+    <title lang="pl">Men's basketball: Spanish league - match: Real Madrid - CB Gran Canaria</title>
   </programme>
-  <programme channel="Sportklub.HD.pl" start="20260702123500 -0500" stop="20260702144500 -0500">
-    <title lang="pl">Football: Greek League - match: Aris FC - Levadiakos FC</title>
+  <programme channel="Sportklub.HD.pl" start="20260703131000 -0500" stop="20260703141000 -0500">
+    <title lang="pl">Sailing: SailGP New York</title>
   </programme>
-  <programme channel="Sportklub.HD.pl" start="20260702144500 -0500" stop="20260702152000 -0500">
+  <programme channel="Sportklub.HD.pl" start="20260703141000 -0500" stop="20260703143500 -0500">
     <title lang="pl">FEI Ride Originals</title>
     <desc lang="pl">The authors show the fascinating bond between people and horses.Traveling around the world, they present their point of view on horse riding and the community that builds it.They will also hold meetings with top players.</desc>
     <category lang="pl">magazyn sportowy</category>
   </programme>
-  <programme channel="Sportklub.HD.pl" start="20260702152000 -0500" stop="20260702173000 -0500">
-    <title lang="pl">Men's volleyball: Slovenian league - match: OK Maribor - Pomgrad</title>
+  <programme channel="Sportklub.HD.pl" start="20260703143500 -0500" stop="20260703160000 -0500">
+    <title lang="pl">Women's volleyball: Slovenian league - match: OTP Banka Branik Maribor - OK Formis</title>
   </programme>
-  <programme channel="Sportklub.HD.pl" start="20260702173000 -0500" stop="20260702200500 -0500">
-    <title lang="pl">Equestrian: League of Nations - Rotterdam</title>
+  <programme channel="Sportklub.HD.pl" start="20260703160000 -0500" stop="20260703181500 -0500">
+    <title lang="pl">Men's basketball: Spanish league - match: Valencia Basket - Barca</title>
   </programme>
-  <programme channel="Sportklub.HD.pl" start="20260702200500 -0500" stop="20260702230000 -0500">
-    <title lang="pl">Men's basketball: Spanish league - match: UCAM Murcia - Basquet Girona</title>
+  <programme channel="Sportklub.HD.pl" start="20260703181500 -0500" stop="20260703185500 -0500">
+    <title lang="pl">FEI Ride Originals</title>
+    <desc lang="pl">The authors show the fascinating bond between people and horses.Traveling around the world, they present their point of view on horse riding and the community that builds it.They will also hold meetings with top players.</desc>
+    <category lang="pl">magazyn sportowy</category>
   </programme>
-  <programme channel="Sportklub.HD.pl" start="20260702230000 -0500" stop="20260703010000 -0500">
-    <title lang="pl">Men's Basketball: Spanish League</title>
+  <programme channel="Sportklub.HD.pl" start="20260703185500 -0500" stop="20260703213000 -0500">
+    <title lang="pl">Football: Greek League - match: PAE Atromitos - AEL Larissa</title>
   </programme>
-  <programme channel="Sportklub.HD.pl" start="20260703010000 -0500" stop="20260703030500 -0500">
-    <title lang="pl">Men's Basketball: Spanish League</title>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20260703030500 -0500" stop="20260703034000 -0500">
-    <title lang="pl">Motorsport</title>
-    <category lang="pl">magazyn sportów motorowych</category>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20260703034000 -0500" stop="20260703053500 -0500">
-    <title lang="pl">Football: Slovenian league</title>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20260703053500 -0500" stop="20260703073000 -0500">
-    <title lang="pl">Football: Slovenian league</title>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20260703073000 -0500" stop="20260703080500 -0500">
-    <title lang="pl">Motorsport</title>
-    <category lang="pl">magazyn sportów motorowych</category>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20260703080500 -0500" stop="20260703092000 -0500">
-    <title lang="pl">Motorsport</title>
-    <category lang="pl">magazyn sportów motorowych</category>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20260703092000 -0500" stop="20260703113000 -0500">
-    <title lang="pl">Men's basketball</title>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20260703113000 -0500" stop="20260703133500 -0500">
-    <title lang="pl">Football: Greek League</title>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20260703133500 -0500" stop="20260703154500 -0500">
-    <title lang="pl">Football: Greek League</title>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20260703154500 -0500" stop="20260703175000 -0500">
-    <title lang="pl">Football: Slovenian league</title>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20260703175000 -0500" stop="20260703190500 -0500">
-    <title lang="pl">Motorsport</title>
-    <category lang="pl">magazyn sportów motorowych</category>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20260703190500 -0500" stop="20260703200000 -0500">
-    <title lang="pl">Motorsport</title>
-    <category lang="pl">magazyn sportów motorowych</category>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20260703200000 -0500" stop="20260703221500 -0500">
-    <title lang="pl">Football: Greek League</title>
-  </programme>
-  <programme channel="Sportklub.HD.pl" start="20260703221500 -0500" stop="20260703230000 -0500">
-    <title lang="pl">Motorsport</title>
-    <category lang="pl">magazyn sportów motorowych</category>
+  <programme channel="Sportklub.HD.pl" start="20260703213000 -0500" stop="20260703230000 -0500">
+    <title lang="pl">Fight of the Night</title>
+    <desc lang="pl">Walka Wieczoru is a program for true fans of combat sports.Experts and invited guests discuss the most important galas, analyze key fights and present the profiles of the players.</desc>
+    <category lang="pl">magazyn sportów walki</category>
   </programme>
   <programme channel="Sportklub.HD.pl" start="20260703230000 -0500" stop="20260704010000 -0500">
     <title lang="pl">Men's Basketball: Spanish League</title>
@@ -287,54 +245,56 @@
   <programme channel="Sportklub.HD.pl" start="20260706230000 -0500" stop="20260707010000 -0500">
     <title lang="pl">Men's Basketball: Spanish League</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.1.pl" start="20260702000000 -0500" stop="20260702020000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament</title>
+  <programme channel="Sportklub.HD.pl" start="20260707010000 -0500" stop="20260707030500 -0500">
+    <title lang="pl">Men's Basketball: Spanish League</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.1.pl" start="20260702020000 -0500" stop="20260702040000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament</title>
+  <programme channel="Sportklub.HD.pl" start="20260707030500 -0500" stop="20260707034000 -0500">
+    <title lang="pl">Motorsport</title>
+    <category lang="pl">magazyn sportów motorowych</category>
   </programme>
-  <programme channel="Polsat.Sport.Premium.1.pl" start="20260702040000 -0500" stop="20260702050000 -0500">
-    <title lang="pl">Hello, this is Wimbledon</title>
-    <desc lang="pl">A program dedicated to the oldest tennis tournament in the world.Journalists talk to guests about the latest events on the Wimbledon courts.There will be short interviews with the players.</desc>
-    <category lang="pl">magazyn tenisowy</category>
+  <programme channel="Sportklub.HD.pl" start="20260707034000 -0500" stop="20260707053500 -0500">
+    <title lang="pl">Football: Slovenian league</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.1.pl" start="20260702050000 -0500" stop="20260702060000 -0500">
-    <title lang="pl">Wimbledon Chronicle</title>
-    <desc lang="pl">Summary of the day on the grass courts of the London All England Lawn Tennis and Croquet Club.Fans will see fragments of Wimbledon matches and their professional analyses.</desc>
-    <category lang="pl">magazyn tenisowy</category>
+  <programme channel="Sportklub.HD.pl" start="20260707053500 -0500" stop="20260707073000 -0500">
+    <title lang="pl">Football: Slovenian league</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.1.pl" start="20260702060000 -0500" stop="20260702073000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - studio</title>
+  <programme channel="Sportklub.HD.pl" start="20260707073000 -0500" stop="20260707080500 -0500">
+    <title lang="pl">Motorsport</title>
+    <category lang="pl">magazyn sportów motorowych</category>
   </programme>
-  <programme channel="Polsat.Sport.Premium.1.pl" start="20260702073000 -0500" stop="20260702093000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Sportklub.HD.pl" start="20260707080500 -0500" stop="20260707092000 -0500">
+    <title lang="pl">Motorsport</title>
+    <category lang="pl">magazyn sportów motorowych</category>
   </programme>
-  <programme channel="Polsat.Sport.Premium.1.pl" start="20260702093000 -0500" stop="20260702113000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Sportklub.HD.pl" start="20260707092000 -0500" stop="20260707113000 -0500">
+    <title lang="pl">Men's basketball</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.1.pl" start="20260702113000 -0500" stop="20260702140000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Sportklub.HD.pl" start="20260707113000 -0500" stop="20260707133500 -0500">
+    <title lang="pl">Football: Greek League</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.1.pl" start="20260702140000 -0500" stop="20260702160000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament</title>
+  <programme channel="Sportklub.HD.pl" start="20260707133500 -0500" stop="20260707154500 -0500">
+    <title lang="pl">Football: Greek League</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.1.pl" start="20260702160000 -0500" stop="20260702180000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament</title>
+  <programme channel="Sportklub.HD.pl" start="20260707154500 -0500" stop="20260707175000 -0500">
+    <title lang="pl">Football: Slovenian league</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.1.pl" start="20260702180000 -0500" stop="20260702200000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament</title>
+  <programme channel="Sportklub.HD.pl" start="20260707175000 -0500" stop="20260707190500 -0500">
+    <title lang="pl">Motorsport</title>
+    <category lang="pl">magazyn sportów motorowych</category>
   </programme>
-  <programme channel="Polsat.Sport.Premium.1.pl" start="20260702200000 -0500" stop="20260702220000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament</title>
+  <programme channel="Sportklub.HD.pl" start="20260707190500 -0500" stop="20260707200000 -0500">
+    <title lang="pl">Motorsport</title>
+    <category lang="pl">magazyn sportów motorowych</category>
   </programme>
-  <programme channel="Polsat.Sport.Premium.1.pl" start="20260702220000 -0500" stop="20260702230000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament</title>
+  <programme channel="Sportklub.HD.pl" start="20260707200000 -0500" stop="20260707221500 -0500">
+    <title lang="pl">Football: Greek League</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.1.pl" start="20260702230000 -0500" stop="20260703000000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament</title>
+  <programme channel="Sportklub.HD.pl" start="20260707221500 -0500" stop="20260707230000 -0500">
+    <title lang="pl">Motorsport</title>
+    <category lang="pl">magazyn sportów motorowych</category>
+  </programme>
+  <programme channel="Sportklub.HD.pl" start="20260707230000 -0500" stop="20260708010000 -0500">
+    <title lang="pl">Men's Basketball: Spanish League</title>
   </programme>
   <programme channel="Polsat.Sport.Premium.1.pl" start="20260703000000 -0500" stop="20260703020000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament</title>
@@ -483,7 +443,6 @@
   </programme>
   <programme channel="Polsat.Sport.Premium.1.pl" start="20260706073000 -0500" stop="20260706093000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
   </programme>
   <programme channel="Polsat.Sport.Premium.1.pl" start="20260706093000 -0500" stop="20260706113000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
@@ -506,54 +465,48 @@
   <programme channel="Polsat.Sport.Premium.1.pl" start="20260706220000 -0500" stop="20260707000000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.2.pl" start="20260702000000 -0500" stop="20260702010000 -0500">
+  <programme channel="Polsat.Sport.Premium.1.pl" start="20260707000000 -0500" stop="20260707020000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament</title>
+  </programme>
+  <programme channel="Polsat.Sport.Premium.1.pl" start="20260707020000 -0500" stop="20260707040000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament</title>
+  </programme>
+  <programme channel="Polsat.Sport.Premium.1.pl" start="20260707040000 -0500" stop="20260707050000 -0500">
+    <title lang="pl">Hello, this is Wimbledon</title>
+    <desc lang="pl">A program dedicated to the oldest tennis tournament in the world.Journalists talk to guests about the latest events on the Wimbledon courts.There will be short interviews with the players.</desc>
+    <category lang="pl">magazyn tenisowy</category>
+  </programme>
+  <programme channel="Polsat.Sport.Premium.1.pl" start="20260707050000 -0500" stop="20260707060000 -0500">
     <title lang="pl">Wimbledon Chronicle</title>
     <desc lang="pl">Summary of the day on the grass courts of the London All England Lawn Tennis and Croquet Club.Fans will see fragments of Wimbledon matches and their professional analyses.</desc>
     <category lang="pl">magazyn tenisowy</category>
   </programme>
-  <programme channel="Polsat.Sport.Premium.2.pl" start="20260702010000 -0500" stop="20260702030000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.1.pl" start="20260707060000 -0500" stop="20260707073000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - studio</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.2.pl" start="20260702030000 -0500" stop="20260702050000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.1.pl" start="20260707073000 -0500" stop="20260707093000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.2.pl" start="20260702050000 -0500" stop="20260702070000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.1.pl" start="20260707093000 -0500" stop="20260707113000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.2.pl" start="20260702070000 -0500" stop="20260702090000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.1.pl" start="20260707113000 -0500" stop="20260707140000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.2.pl" start="20260702090000 -0500" stop="20260702110000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.1.pl" start="20260707140000 -0500" stop="20260707160000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.2.pl" start="20260702110000 -0500" stop="20260702140000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.1.pl" start="20260707160000 -0500" stop="20260707180000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.2.pl" start="20260702140000 -0500" stop="20260702160000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.1.pl" start="20260707180000 -0500" stop="20260707200000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.2.pl" start="20260702160000 -0500" stop="20260702180000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.1.pl" start="20260707200000 -0500" stop="20260707220000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.2.pl" start="20260702180000 -0500" stop="20260702200000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.2.pl" start="20260702200000 -0500" stop="20260702220000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.2.pl" start="20260702220000 -0500" stop="20260703000000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.1.pl" start="20260707220000 -0500" stop="20260708000000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament</title>
   </programme>
   <programme channel="Polsat.Sport.Premium.2.pl" start="20260703000000 -0500" stop="20260703010000 -0500">
     <title lang="pl">Wimbledon Chronicle</title>
@@ -698,7 +651,6 @@
   </programme>
   <programme channel="Polsat.Sport.Premium.2.pl" start="20260706070000 -0500" stop="20260706090000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
   </programme>
   <programme channel="Polsat.Sport.Premium.2.pl" start="20260706090000 -0500" stop="20260706110000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
@@ -724,41 +676,38 @@
   <programme channel="Polsat.Sport.Premium.2.pl" start="20260706230000 -0500" stop="20260707013000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.3.pl" start="20260702000000 -0500" stop="20260702010000 -0500">
-    <title lang="pl">Warehouse</title>
-    <category lang="pl">magazyn</category>
+  <programme channel="Polsat.Sport.Premium.2.pl" start="20260707013000 -0500" stop="20260707040000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.3.pl" start="20260702010000 -0500" stop="20260702030000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.2.pl" start="20260707040000 -0500" stop="20260707070000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.3.pl" start="20260702030000 -0500" stop="20260702050000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.2.pl" start="20260707070000 -0500" stop="20260707090000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - women's singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.3.pl" start="20260702050000 -0500" stop="20260702070000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.2.pl" start="20260707090000 -0500" stop="20260707113000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - women's singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.3.pl" start="20260702070000 -0500" stop="20260702090000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.2.pl" start="20260707113000 -0500" stop="20260707140000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.3.pl" start="20260702090000 -0500" stop="20260702110000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.2.pl" start="20260707140000 -0500" stop="20260707160000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.3.pl" start="20260702110000 -0500" stop="20260702140000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.2.pl" start="20260707160000 -0500" stop="20260707180000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.3.pl" start="20260702140000 -0500" stop="20260702160000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.2.pl" start="20260707180000 -0500" stop="20260707200000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.3.pl" start="20260702160000 -0500" stop="20260703000000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.2.pl" start="20260707200000 -0500" stop="20260707220000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
+  </programme>
+  <programme channel="Polsat.Sport.Premium.2.pl" start="20260707220000 -0500" stop="20260707230000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
+  </programme>
+  <programme channel="Polsat.Sport.Premium.2.pl" start="20260707230000 -0500" stop="20260708013000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
   <programme channel="Polsat.Sport.Premium.3.pl" start="20260703000000 -0500" stop="20260703010000 -0500">
     <title lang="pl">Warehouse</title>
@@ -861,7 +810,6 @@
   </programme>
   <programme channel="Polsat.Sport.Premium.3.pl" start="20260706070000 -0500" stop="20260706090000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
   </programme>
   <programme channel="Polsat.Sport.Premium.3.pl" start="20260706090000 -0500" stop="20260706110000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
@@ -875,37 +823,33 @@
   <programme channel="Polsat.Sport.Premium.3.pl" start="20260706160000 -0500" stop="20260707000000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.4.pl" start="20260702000000 -0500" stop="20260702023000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.3.pl" start="20260707000000 -0500" stop="20260707010000 -0500">
+    <title lang="pl">Warehouse</title>
+    <category lang="pl">magazyn</category>
   </programme>
-  <programme channel="Polsat.Sport.Premium.4.pl" start="20260702023000 -0500" stop="20260702050000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.3.pl" start="20260707010000 -0500" stop="20260707030000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.4.pl" start="20260702050000 -0500" stop="20260702070000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.3.pl" start="20260707030000 -0500" stop="20260707050000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.4.pl" start="20260702070000 -0500" stop="20260702090000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.3.pl" start="20260707050000 -0500" stop="20260707070000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.4.pl" start="20260702090000 -0500" stop="20260702110000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.3.pl" start="20260707070000 -0500" stop="20260707090000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.4.pl" start="20260702110000 -0500" stop="20260702140000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.3.pl" start="20260707090000 -0500" stop="20260707110000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.4.pl" start="20260702140000 -0500" stop="20260702160000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.3.pl" start="20260707110000 -0500" stop="20260707140000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.4.pl" start="20260702160000 -0500" stop="20260703000000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.3.pl" start="20260707140000 -0500" stop="20260707160000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
+  </programme>
+  <programme channel="Polsat.Sport.Premium.3.pl" start="20260707160000 -0500" stop="20260708000000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
   <programme channel="Polsat.Sport.Premium.4.pl" start="20260703000000 -0500" stop="20260703023000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
@@ -992,7 +936,6 @@
   </programme>
   <programme channel="Polsat.Sport.Premium.4.pl" start="20260706070000 -0500" stop="20260706090000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
   </programme>
   <programme channel="Polsat.Sport.Premium.4.pl" start="20260706090000 -0500" stop="20260706110000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
@@ -1006,37 +949,29 @@
   <programme channel="Polsat.Sport.Premium.4.pl" start="20260706160000 -0500" stop="20260707000000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.5.pl" start="20260702000000 -0500" stop="20260702023000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.4.pl" start="20260707000000 -0500" stop="20260707023000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.5.pl" start="20260702023000 -0500" stop="20260702050000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.4.pl" start="20260707023000 -0500" stop="20260707050000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.5.pl" start="20260702050000 -0500" stop="20260702070000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.4.pl" start="20260707050000 -0500" stop="20260707070000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.5.pl" start="20260702070000 -0500" stop="20260702090000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.4.pl" start="20260707070000 -0500" stop="20260707090000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.5.pl" start="20260702090000 -0500" stop="20260702110000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.4.pl" start="20260707090000 -0500" stop="20260707110000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.5.pl" start="20260702110000 -0500" stop="20260702140000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.4.pl" start="20260707110000 -0500" stop="20260707140000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.5.pl" start="20260702140000 -0500" stop="20260702160000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.4.pl" start="20260707140000 -0500" stop="20260707160000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.5.pl" start="20260702160000 -0500" stop="20260703000000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.4.pl" start="20260707160000 -0500" stop="20260708000000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
   <programme channel="Polsat.Sport.Premium.5.pl" start="20260703000000 -0500" stop="20260703023000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
@@ -1112,11 +1047,8 @@
   <programme channel="Polsat.Sport.Premium.5.pl" start="20260705130000 -0500" stop="20260705140000 -0500">
     <title lang="pl">Moto3 Junior Motorcycle World Championship: Spanish Grand Prix - 2nd race</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.5.pl" start="20260705140000 -0500" stop="20260705160000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
-  </programme>
-  <programme channel="Polsat.Sport.Premium.5.pl" start="20260705160000 -0500" stop="20260706000000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
+  <programme channel="Polsat.Sport.Premium.5.pl" start="20260705140000 -0500" stop="20260706000000 -0500">
+    <title lang="pl">Badminton: BWF World Tour tournament in Markham - final matches</title>
   </programme>
   <programme channel="Polsat.Sport.Premium.5.pl" start="20260706000000 -0500" stop="20260706023000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
@@ -1129,7 +1061,6 @@
   </programme>
   <programme channel="Polsat.Sport.Premium.5.pl" start="20260706070000 -0500" stop="20260706090000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
   </programme>
   <programme channel="Polsat.Sport.Premium.5.pl" start="20260706090000 -0500" stop="20260706110000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
@@ -1143,37 +1074,29 @@
   <programme channel="Polsat.Sport.Premium.5.pl" start="20260706160000 -0500" stop="20260707000000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.6.pl" start="20260702000000 -0500" stop="20260702023000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.5.pl" start="20260707000000 -0500" stop="20260707023000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.6.pl" start="20260702023000 -0500" stop="20260702050000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.5.pl" start="20260707023000 -0500" stop="20260707050000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.6.pl" start="20260702050000 -0500" stop="20260702070000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.5.pl" start="20260707050000 -0500" stop="20260707070000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.6.pl" start="20260702070000 -0500" stop="20260702090000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.5.pl" start="20260707070000 -0500" stop="20260707090000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.6.pl" start="20260702090000 -0500" stop="20260702110000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.5.pl" start="20260707090000 -0500" stop="20260707110000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.6.pl" start="20260702110000 -0500" stop="20260702140000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.5.pl" start="20260707110000 -0500" stop="20260707140000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.6.pl" start="20260702140000 -0500" stop="20260702160000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.5.pl" start="20260707140000 -0500" stop="20260707160000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.Premium.6.pl" start="20260702160000 -0500" stop="20260703000000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Premium.5.pl" start="20260707160000 -0500" stop="20260708000000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
   <programme channel="Polsat.Sport.Premium.6.pl" start="20260703000000 -0500" stop="20260703023000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
@@ -1260,7 +1183,6 @@
   </programme>
   <programme channel="Polsat.Sport.Premium.6.pl" start="20260706070000 -0500" stop="20260706090000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
   </programme>
   <programme channel="Polsat.Sport.Premium.6.pl" start="20260706090000 -0500" stop="20260706110000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
@@ -1274,89 +1196,71 @@
   <programme channel="Polsat.Sport.Premium.6.pl" start="20260706160000 -0500" stop="20260707000000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
   </programme>
-  <programme channel="Sportklub.pl" start="20260702011500 -0500" stop="20260702032000 -0500">
-    <title lang="pl">Football: Greek League - match: PAOK FC - AEK Athens</title>
+  <programme channel="Polsat.Sport.Premium.6.pl" start="20260707000000 -0500" stop="20260707023000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
   </programme>
-  <programme channel="Sportklub.pl" start="20260702032000 -0500" stop="20260702052500 -0500">
-    <title lang="pl">Football: Greek League - match: Levadiakos FC - Volos NPS</title>
+  <programme channel="Polsat.Sport.Premium.6.pl" start="20260707023000 -0500" stop="20260707050000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
   </programme>
-  <programme channel="Sportklub.pl" start="20260702052500 -0500" stop="20260702080500 -0500">
-    <title lang="pl">Men's basketball: Spanish league - match: UCAM Murcia - Basquet Girona</title>
+  <programme channel="Polsat.Sport.Premium.6.pl" start="20260707050000 -0500" stop="20260707070000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Sportklub.pl" start="20260702080500 -0500" stop="20260702100500 -0500">
-    <title lang="pl">Horse riding - show jumping</title>
-    <sub-title lang="pl">Longines FEI Jumping World Cup w Fort Worth</sub-title>
+  <programme channel="Polsat.Sport.Premium.6.pl" start="20260707070000 -0500" stop="20260707090000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Sportklub.pl" start="20260702100500 -0500" stop="20260702123500 -0500">
-    <title lang="pl">Men's basketball: Spanish league - match: Unicaja Malaga - Surne Bilbao Basket</title>
+  <programme channel="Polsat.Sport.Premium.6.pl" start="20260707090000 -0500" stop="20260707110000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Sportklub.pl" start="20260702123500 -0500" stop="20260702144500 -0500">
-    <title lang="pl">Football: Greek League - match: Aris FC - Levadiakos FC</title>
+  <programme channel="Polsat.Sport.Premium.6.pl" start="20260707110000 -0500" stop="20260707140000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Sportklub.pl" start="20260702144500 -0500" stop="20260702152000 -0500">
+  <programme channel="Polsat.Sport.Premium.6.pl" start="20260707140000 -0500" stop="20260707160000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
+  </programme>
+  <programme channel="Polsat.Sport.Premium.6.pl" start="20260707160000 -0500" stop="20260708000000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
+  </programme>
+  <programme channel="Sportklub.pl" start="20260703013000 -0500" stop="20260703033000 -0500">
+    <title lang="pl">Football: Greek League - match: MGS Panserraikos - Asteras Tripolis</title>
+  </programme>
+  <programme channel="Sportklub.pl" start="20260703033000 -0500" stop="20260703052000 -0500">
+    <title lang="pl">Equestrian: League of Nations - Ocala</title>
+  </programme>
+  <programme channel="Sportklub.pl" start="20260703052000 -0500" stop="20260703072500 -0500">
+    <title lang="pl">Football: Greek League - match: Asteras Tripolis - AE Kifisia</title>
+  </programme>
+  <programme channel="Sportklub.pl" start="20260703072500 -0500" stop="20260703110000 -0500">
+    <title lang="pl">Equestrian: Longines FEI Jumping World Cup in Fort Worth - dressage</title>
+  </programme>
+  <programme channel="Sportklub.pl" start="20260703110000 -0500" stop="20260703131000 -0500">
+    <title lang="pl">Men's basketball: Spanish league - match: Real Madrid - CB Gran Canaria</title>
+  </programme>
+  <programme channel="Sportklub.pl" start="20260703131000 -0500" stop="20260703141000 -0500">
+    <title lang="pl">Sailing: SailGP New York</title>
+  </programme>
+  <programme channel="Sportklub.pl" start="20260703141000 -0500" stop="20260703143500 -0500">
     <title lang="pl">FEI Ride Originals</title>
     <desc lang="pl">The authors show the fascinating bond between people and horses.Traveling around the world, they present their point of view on horse riding and the community that builds it.They will also hold meetings with top players.</desc>
     <category lang="pl">magazyn sportowy</category>
   </programme>
-  <programme channel="Sportklub.pl" start="20260702152000 -0500" stop="20260702173000 -0500">
-    <title lang="pl">Men's volleyball: Slovenian league - match: OK Maribor - Pomgrad</title>
+  <programme channel="Sportklub.pl" start="20260703143500 -0500" stop="20260703160000 -0500">
+    <title lang="pl">Women's volleyball: Slovenian league - match: OTP Banka Branik Maribor - OK Formis</title>
   </programme>
-  <programme channel="Sportklub.pl" start="20260702173000 -0500" stop="20260702200500 -0500">
-    <title lang="pl">Equestrian: League of Nations - Rotterdam</title>
+  <programme channel="Sportklub.pl" start="20260703160000 -0500" stop="20260703181500 -0500">
+    <title lang="pl">Men's basketball: Spanish league - match: Valencia Basket - Barca</title>
   </programme>
-  <programme channel="Sportklub.pl" start="20260702200500 -0500" stop="20260702230000 -0500">
-    <title lang="pl">Men's basketball: Spanish league - match: UCAM Murcia - Basquet Girona</title>
+  <programme channel="Sportklub.pl" start="20260703181500 -0500" stop="20260703185500 -0500">
+    <title lang="pl">FEI Ride Originals</title>
+    <desc lang="pl">The authors show the fascinating bond between people and horses.Traveling around the world, they present their point of view on horse riding and the community that builds it.They will also hold meetings with top players.</desc>
+    <category lang="pl">magazyn sportowy</category>
   </programme>
-  <programme channel="Sportklub.pl" start="20260702230000 -0500" stop="20260703010000 -0500">
-    <title lang="pl">Men's Basketball: Spanish League</title>
+  <programme channel="Sportklub.pl" start="20260703185500 -0500" stop="20260703213000 -0500">
+    <title lang="pl">Football: Greek League - match: PAE Atromitos - AEL Larissa</title>
   </programme>
-  <programme channel="Sportklub.pl" start="20260703010000 -0500" stop="20260703030500 -0500">
-    <title lang="pl">Men's Basketball: Spanish League</title>
-  </programme>
-  <programme channel="Sportklub.pl" start="20260703030500 -0500" stop="20260703034000 -0500">
-    <title lang="pl">Motorsport</title>
-    <category lang="pl">magazyn sportów motorowych</category>
-  </programme>
-  <programme channel="Sportklub.pl" start="20260703034000 -0500" stop="20260703053500 -0500">
-    <title lang="pl">Football: Slovenian league</title>
-  </programme>
-  <programme channel="Sportklub.pl" start="20260703053500 -0500" stop="20260703073000 -0500">
-    <title lang="pl">Football: Slovenian league</title>
-  </programme>
-  <programme channel="Sportklub.pl" start="20260703073000 -0500" stop="20260703080500 -0500">
-    <title lang="pl">Motorsport</title>
-    <category lang="pl">magazyn sportów motorowych</category>
-  </programme>
-  <programme channel="Sportklub.pl" start="20260703080500 -0500" stop="20260703092000 -0500">
-    <title lang="pl">Motorsport</title>
-    <category lang="pl">magazyn sportów motorowych</category>
-  </programme>
-  <programme channel="Sportklub.pl" start="20260703092000 -0500" stop="20260703113000 -0500">
-    <title lang="pl">Men's basketball</title>
-  </programme>
-  <programme channel="Sportklub.pl" start="20260703113000 -0500" stop="20260703133500 -0500">
-    <title lang="pl">Football: Greek League</title>
-  </programme>
-  <programme channel="Sportklub.pl" start="20260703133500 -0500" stop="20260703154500 -0500">
-    <title lang="pl">Football: Greek League</title>
-  </programme>
-  <programme channel="Sportklub.pl" start="20260703154500 -0500" stop="20260703175000 -0500">
-    <title lang="pl">Football: Slovenian league</title>
-  </programme>
-  <programme channel="Sportklub.pl" start="20260703175000 -0500" stop="20260703190500 -0500">
-    <title lang="pl">Motorsport</title>
-    <category lang="pl">magazyn sportów motorowych</category>
-  </programme>
-  <programme channel="Sportklub.pl" start="20260703190500 -0500" stop="20260703200000 -0500">
-    <title lang="pl">Motorsport</title>
-    <category lang="pl">magazyn sportów motorowych</category>
-  </programme>
-  <programme channel="Sportklub.pl" start="20260703200000 -0500" stop="20260703221500 -0500">
-    <title lang="pl">Football: Greek League</title>
-  </programme>
-  <programme channel="Sportklub.pl" start="20260703221500 -0500" stop="20260703230000 -0500">
-    <title lang="pl">Motorsport</title>
-    <category lang="pl">magazyn sportów motorowych</category>
+  <programme channel="Sportklub.pl" start="20260703213000 -0500" stop="20260703230000 -0500">
+    <title lang="pl">Fight of the Night</title>
+    <desc lang="pl">Walka Wieczoru is a program for true fans of combat sports.Experts and invited guests discuss the most important galas, analyze key fights and present the profiles of the players.</desc>
+    <category lang="pl">magazyn sportów walki</category>
   </programme>
   <programme channel="Sportklub.pl" start="20260703230000 -0500" stop="20260704010000 -0500">
     <title lang="pl">Men's Basketball: Spanish League</title>
@@ -1514,44 +1418,56 @@
   <programme channel="Sportklub.pl" start="20260706230000 -0500" stop="20260707010000 -0500">
     <title lang="pl">Men's Basketball: Spanish League</title>
   </programme>
-  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260702013000 -0500" stop="20260702040000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Sportklub.pl" start="20260707010000 -0500" stop="20260707030500 -0500">
+    <title lang="pl">Men's Basketball: Spanish League</title>
   </programme>
-  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260702040000 -0500" stop="20260702060000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Sportklub.pl" start="20260707030500 -0500" stop="20260707034000 -0500">
+    <title lang="pl">Motorsport</title>
+    <category lang="pl">magazyn sportów motorowych</category>
   </programme>
-  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260702060000 -0500" stop="20260702070000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Sportklub.pl" start="20260707034000 -0500" stop="20260707053500 -0500">
+    <title lang="pl">Football: Slovenian league</title>
   </programme>
-  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260702070000 -0500" stop="20260702090000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Sportklub.pl" start="20260707053500 -0500" stop="20260707073000 -0500">
+    <title lang="pl">Football: Slovenian league</title>
   </programme>
-  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260702090000 -0500" stop="20260702110000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Sportklub.pl" start="20260707073000 -0500" stop="20260707080500 -0500">
+    <title lang="pl">Motorsport</title>
+    <category lang="pl">magazyn sportów motorowych</category>
   </programme>
-  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260702110000 -0500" stop="20260702140000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Sportklub.pl" start="20260707080500 -0500" stop="20260707092000 -0500">
+    <title lang="pl">Motorsport</title>
+    <category lang="pl">magazyn sportów motorowych</category>
   </programme>
-  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260702140000 -0500" stop="20260702160000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Sportklub.pl" start="20260707092000 -0500" stop="20260707113000 -0500">
+    <title lang="pl">Men's basketball</title>
   </programme>
-  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260702160000 -0500" stop="20260702180000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Sportklub.pl" start="20260707113000 -0500" stop="20260707133500 -0500">
+    <title lang="pl">Football: Greek League</title>
   </programme>
-  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260702180000 -0500" stop="20260702230000 -0500">
-    <title lang="pl">Combat sports: FEN 58 in Częstochowa - fight: Wawrzyniec Bartnik - Jacek Jędraszczyk 01/03/2025</title>
+  <programme channel="Sportklub.pl" start="20260707133500 -0500" stop="20260707154500 -0500">
+    <title lang="pl">Football: Greek League</title>
   </programme>
-  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260702230000 -0500" stop="20260703013000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Sportklub.pl" start="20260707154500 -0500" stop="20260707175000 -0500">
+    <title lang="pl">Football: Slovenian league</title>
+  </programme>
+  <programme channel="Sportklub.pl" start="20260707175000 -0500" stop="20260707190500 -0500">
+    <title lang="pl">Motorsport</title>
+    <category lang="pl">magazyn sportów motorowych</category>
+  </programme>
+  <programme channel="Sportklub.pl" start="20260707190500 -0500" stop="20260707200000 -0500">
+    <title lang="pl">Motorsport</title>
+    <category lang="pl">magazyn sportów motorowych</category>
+  </programme>
+  <programme channel="Sportklub.pl" start="20260707200000 -0500" stop="20260707221500 -0500">
+    <title lang="pl">Football: Greek League</title>
+  </programme>
+  <programme channel="Sportklub.pl" start="20260707221500 -0500" stop="20260707230000 -0500">
+    <title lang="pl">Motorsport</title>
+    <category lang="pl">magazyn sportów motorowych</category>
+  </programme>
+  <programme channel="Sportklub.pl" start="20260707230000 -0500" stop="20260708010000 -0500">
+    <title lang="pl">Men's Basketball: Spanish League</title>
   </programme>
   <programme channel="Polsat.Sport.Extra.HD.pl" start="20260703013000 -0500" stop="20260703040000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
@@ -1616,7 +1532,7 @@
     <title lang="pl">Mini volleyball: Final of the Polish championship in Gliwice</title>
   </programme>
   <programme channel="Polsat.Sport.Extra.HD.pl" start="20260705050000 -0500" stop="20260705055500 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 3rd round singles match</title>
+    <title lang="pl">Motorcycle World Championship: Grand Prix - summary of the MotoGP class race</title>
   </programme>
   <programme channel="Polsat.Sport.Extra.HD.pl" start="20260705055500 -0500" stop="20260705070000 -0500">
     <title lang="pl">European Motorcycle Championship: Spanish Grand Prix - Moto2 class race</title>
@@ -1633,10 +1549,13 @@
   <programme channel="Polsat.Sport.Extra.HD.pl" start="20260705140000 -0500" stop="20260705160000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
   </programme>
-  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260705160000 -0500" stop="20260705180000 -0500">
+  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260705160000 -0500" stop="20260705170000 -0500">
+    <title lang="pl">Motorcycle World Championship: Grand Prix - summary of the MotoGP class race</title>
+  </programme>
+  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260705170000 -0500" stop="20260705190000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
   </programme>
-  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260705180000 -0500" stop="20260705230000 -0500">
+  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260705190000 -0500" stop="20260705230000 -0500">
     <title lang="pl">Combat sports: FEN 54 in Piła - fight: Gracjan Wyroślak - Maksim Grabovich 17/05/2024</title>
   </programme>
   <programme channel="Polsat.Sport.Extra.HD.pl" start="20260705230000 -0500" stop="20260706013000 -0500">
@@ -1650,7 +1569,6 @@
   </programme>
   <programme channel="Polsat.Sport.Extra.HD.pl" start="20260706070000 -0500" stop="20260706090000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
   </programme>
   <programme channel="Polsat.Sport.Extra.HD.pl" start="20260706090000 -0500" stop="20260706110000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
@@ -1670,44 +1588,32 @@
   <programme channel="Polsat.Sport.Extra.HD.pl" start="20260706230000 -0500" stop="20260707013000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
   </programme>
-  <programme channel="Polsat.Sport.News.HD.pl" start="20260702010000 -0500" stop="20260702030000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260707013000 -0500" stop="20260707040000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
   </programme>
-  <programme channel="Polsat.Sport.News.HD.pl" start="20260702030000 -0500" stop="20260702050000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260707040000 -0500" stop="20260707070000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
   </programme>
-  <programme channel="Polsat.Sport.News.HD.pl" start="20260702050000 -0500" stop="20260702070000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260707070000 -0500" stop="20260707090000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - women's singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.News.HD.pl" start="20260702070000 -0500" stop="20260702090000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260707090000 -0500" stop="20260707113000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - women's singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.News.HD.pl" start="20260702090000 -0500" stop="20260702110000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260707113000 -0500" stop="20260707140000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.News.HD.pl" start="20260702110000 -0500" stop="20260702140000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260707140000 -0500" stop="20260707160000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.News.HD.pl" start="20260702140000 -0500" stop="20260702160000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260707160000 -0500" stop="20260707180000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.News.HD.pl" start="20260702160000 -0500" stop="20260702180000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260707180000 -0500" stop="20260707221500 -0500">
+    <title lang="pl">Combat sports: FEN 58 in Częstochowa - fight: Wawrzyniec Bartnik - Jacek Jędraszczyk 01/03/2025</title>
   </programme>
-  <programme channel="Polsat.Sport.News.HD.pl" start="20260702180000 -0500" stop="20260702230000 -0500">
-    <title lang="pl">Combat sports: Gala Babilon MMA 54 in Grudziądz - fight: Rafał Błachuta - Krystian Szczęsny 27/09/2025</title>
-  </programme>
-  <programme channel="Polsat.Sport.News.HD.pl" start="20260702230000 -0500" stop="20260703010000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.Extra.HD.pl" start="20260707221500 -0500" stop="20260708011500 -0500">
+    <title lang="pl">Women's volleyball: Nations League - match: Belgium - Dominican Republic</title>
   </programme>
   <programme channel="Polsat.Sport.News.HD.pl" start="20260703010000 -0500" stop="20260703030000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
@@ -1733,7 +1639,7 @@
     <title lang="pl">Tennis: Wimbledon Tournament - 3rd round singles match</title>
   </programme>
   <programme channel="Polsat.Sport.News.HD.pl" start="20260703160000 -0500" stop="20260703163000 -0500">
-    <title lang="pl">Super League boss</title>
+    <title lang="pl">Head of the Super League</title>
     <desc lang="pl">A series of interviews with players playing in ORLEN Superliga clubs.In addition to talking about various topics, fans will see how the players perform tasks that test their sports skills.</desc>
     <category lang="pl">magazyn sportowy</category>
   </programme>
@@ -1820,7 +1726,6 @@
   </programme>
   <programme channel="Polsat.Sport.News.HD.pl" start="20260706070000 -0500" stop="20260706090000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
   </programme>
   <programme channel="Polsat.Sport.News.HD.pl" start="20260706090000 -0500" stop="20260706110000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
@@ -1840,57 +1745,32 @@
   <programme channel="Polsat.Sport.News.HD.pl" start="20260706230000 -0500" stop="20260707010000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
   </programme>
-  <programme channel="Polsat.Sport.pl" start="20260702020000 -0500" stop="20260702030000 -0500">
-    <title lang="pl">Polsat Mundial Cast</title>
-    <category lang="pl">magazyn piłkarski</category>
+  <programme channel="Polsat.Sport.News.HD.pl" start="20260707010000 -0500" stop="20260707030000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
   </programme>
-  <programme channel="Polsat.Sport.pl" start="20260702030000 -0500" stop="20260702040000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 1st round doubles match: Karol Drzewiecki/Kamil Majchrzak - Fernando Romboli/John-Patrick Smith</title>
+  <programme channel="Polsat.Sport.News.HD.pl" start="20260707030000 -0500" stop="20260707070000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
   </programme>
-  <programme channel="Polsat.Sport.pl" start="20260702040000 -0500" stop="20260702050000 -0500">
-    <title lang="pl">Hello, this is Wimbledon</title>
-    <desc lang="pl">A program dedicated to the oldest tennis tournament in the world.Journalists talk to guests about the latest events on the Wimbledon courts.There will be short interviews with the players.</desc>
-    <category lang="pl">magazyn tenisowy</category>
+  <programme channel="Polsat.Sport.News.HD.pl" start="20260707070000 -0500" stop="20260707090000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.pl" start="20260702050000 -0500" stop="20260702060000 -0500">
-    <title lang="pl">Wimbledon Chronicle</title>
-    <desc lang="pl">Summary of the day on the grass courts of the London All England Lawn Tennis and Croquet Club.Fans will see fragments of Wimbledon matches and their professional analyses.</desc>
-    <category lang="pl">magazyn tenisowy</category>
+  <programme channel="Polsat.Sport.News.HD.pl" start="20260707090000 -0500" stop="20260707110000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.pl" start="20260702060000 -0500" stop="20260702073000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - studio</title>
+  <programme channel="Polsat.Sport.News.HD.pl" start="20260707110000 -0500" stop="20260707140000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.pl" start="20260702073000 -0500" stop="20260702093000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.News.HD.pl" start="20260707140000 -0500" stop="20260707160000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.pl" start="20260702093000 -0500" stop="20260702113000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.News.HD.pl" start="20260707160000 -0500" stop="20260707180000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.pl" start="20260702113000 -0500" stop="20260702140000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.News.HD.pl" start="20260707180000 -0500" stop="20260707230000 -0500">
+    <title lang="pl">Combat sports: Babilon MMA 42 in Żyrardów - fight: Bartłomiej Gładkowicz - Sergiusz Zając 22/11/2024</title>
   </programme>
-  <programme channel="Polsat.Sport.pl" start="20260702140000 -0500" stop="20260702160000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
-  </programme>
-  <programme channel="Polsat.Sport.pl" start="20260702160000 -0500" stop="20260702180000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
-  </programme>
-  <programme channel="Polsat.Sport.pl" start="20260702180000 -0500" stop="20260702203000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
-  </programme>
-  <programme channel="Polsat.Sport.pl" start="20260702203000 -0500" stop="20260702230000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
-  </programme>
-  <programme channel="Polsat.Sport.pl" start="20260702230000 -0500" stop="20260703020000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.News.HD.pl" start="20260707230000 -0500" stop="20260708010000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
   <programme channel="Polsat.Sport.pl" start="20260703020000 -0500" stop="20260703030000 -0500">
     <title lang="pl">Polsat Mundial Cast</title>
@@ -2043,6 +1923,7 @@
   </programme>
   <programme channel="Polsat.Sport.pl" start="20260706073000 -0500" stop="20260706093000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
+    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
   </programme>
   <programme channel="Polsat.Sport.pl" start="20260706093000 -0500" stop="20260706113000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
@@ -2065,57 +1946,49 @@
   <programme channel="Polsat.Sport.pl" start="20260706230000 -0500" stop="20260707010000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
   </programme>
-  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260702000000 -0500" stop="20260702003000 -0500">
-    <title lang="pl">K.O.TV Weekly</title>
-    <desc lang="pl">The latest news from the boxing world.Boxing fans will find in this program, among others:results of the most important fights, announcements of galas and interesting facts related to this spectacular sport.</desc>
-    <category lang="pl">magazyn bokserski</category>
-    <episode-num system="onscreen">E27</episode-num>
+  <programme channel="Polsat.Sport.pl" start="20260707010000 -0500" stop="20260707020000 -0500">
+    <title lang="pl">Formula 1: British Grand Prix</title>
   </programme>
-  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260702003000 -0500" stop="20260702012000 -0500">
-    <title lang="pl">Combat sports: UFC 318 - fight: Max Holloway - Dustin Poirier 3 20/07/2025</title>
+  <programme channel="Polsat.Sport.pl" start="20260707020000 -0500" stop="20260707030000 -0500">
+    <title lang="pl">Polsat Mundial Cast</title>
+    <category lang="pl">magazyn piłkarski</category>
   </programme>
-  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260702012000 -0500" stop="20260702034500 -0500">
-    <title lang="pl">Combat sports: UFC 325 - fight: Alexander Volkanovski - Diego Lopes 2 01/02/2026</title>
+  <programme channel="Polsat.Sport.pl" start="20260707030000 -0500" stop="20260707040000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
   </programme>
-  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260702034500 -0500" stop="20260702050000 -0500">
-    <title lang="pl">Boxing: Rocky Boxing Night in Sopot - junior heavyweight: Nikodem Jeżewski - Marko Calic 13/12/2025</title>
+  <programme channel="Polsat.Sport.pl" start="20260707040000 -0500" stop="20260707050000 -0500">
+    <title lang="pl">Hello, this is Wimbledon</title>
+    <desc lang="pl">A program dedicated to the oldest tennis tournament in the world.Journalists talk to guests about the latest events on the Wimbledon courts.There will be short interviews with the players.</desc>
+    <category lang="pl">magazyn tenisowy</category>
   </programme>
-  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260702050000 -0500" stop="20260702070000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.pl" start="20260707050000 -0500" stop="20260707060000 -0500">
+    <title lang="pl">Wimbledon Chronicle</title>
+    <desc lang="pl">Summary of the day on the grass courts of the London All England Lawn Tennis and Croquet Club.Fans will see fragments of Wimbledon matches and their professional analyses.</desc>
+    <category lang="pl">magazyn tenisowy</category>
   </programme>
-  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260702070000 -0500" stop="20260702090000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.pl" start="20260707060000 -0500" stop="20260707073000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - studio</title>
   </programme>
-  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260702090000 -0500" stop="20260702110000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.pl" start="20260707073000 -0500" stop="20260707093000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260702110000 -0500" stop="20260702131000 -0500">
-    <title lang="pl">Tennis: Wimbledon Tournament - 2nd round singles match</title>
-    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
+  <programme channel="Polsat.Sport.pl" start="20260707093000 -0500" stop="20260707113000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260702131000 -0500" stop="20260702134000 -0500">
-    <title lang="pl">K.O.TV Weekly</title>
-    <desc lang="pl">The latest news from the boxing world.Boxing fans will find in this program, among others:results of the most important fights, announcements of galas and interesting facts related to this spectacular sport.</desc>
-    <category lang="pl">magazyn bokserski</category>
-    <episode-num system="onscreen">E27</episode-num>
+  <programme channel="Polsat.Sport.pl" start="20260707113000 -0500" stop="20260707140000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260702134000 -0500" stop="20260702154000 -0500">
-    <title lang="pl">Combat sports: Babilon MMA 46 in Międzyzdroje - fight: Marcin Sianos - Oli Thompson 09/08/2024</title>
+  <programme channel="Polsat.Sport.pl" start="20260707140000 -0500" stop="20260707160000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260702154000 -0500" stop="20260702173500 -0500">
-    <title lang="pl">Boxing: Rocky Boxing Night in Koszalin - heavyweight: Kacper Meyna - Adam Kownacki 02/03/2024</title>
+  <programme channel="Polsat.Sport.pl" start="20260707160000 -0500" stop="20260707180000 -0500">
+    <title lang="pl">Tennis: Wimbledon Tournament - singles quarterfinal match</title>
   </programme>
-  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260702173500 -0500" stop="20260702192500 -0500">
-    <title lang="pl">Combat sports: Combat Sports Gala in Międzychód - fight: Michał Andryszak - Wesley Martins 24/10/2025</title>
+  <programme channel="Polsat.Sport.pl" start="20260707180000 -0500" stop="20260707214500 -0500">
+    <title lang="pl">Boxing: Rocky Boxing Night in Żukowo - heavyweight: Kacper Meyna - Krzysztof Twardowski 02/06/2023</title>
   </programme>
-  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260702192500 -0500" stop="20260702212000 -0500">
-    <title lang="pl">Boxing: Polsat Boxing Promotions 4 in Warsaw - super featherweight: Radomir Obruśniak - Caril Herrera 11/12/2021</title>
-  </programme>
-  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260702212000 -0500" stop="20260703000000 -0500">
-    <title lang="pl">Combat sports: Babilon MMA 41 in Bielsko-Biała - fight: Adrian Błeszyński - Filip Tomczak 24/11/2023</title>
+  <programme channel="Polsat.Sport.pl" start="20260707214500 -0500" stop="20260708000000 -0500">
+    <title lang="pl">Women's volleyball: Nations League - match: Türkiye - Poland</title>
   </programme>
   <programme channel="Polsat.Sport.Fight.HD.pl" start="20260703000000 -0500" stop="20260703024000 -0500">
     <title lang="pl">Boxing: Fight for the Polish championship in Sopot - heavyweight: Kacper Meyna - Mariusz Wach 12/04/2025</title>
@@ -2294,6 +2167,7 @@
   </programme>
   <programme channel="Polsat.Sport.Fight.HD.pl" start="20260706070000 -0500" stop="20260706090000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
+    <desc lang="pl">Wimbledon traditionally attracts the attention of the tennis world, even though players such as Carlos Alcaraz, Lorenzo Musetti and Holger Rune were absent from the grass courts in London.In turn, Victoria Mboko and Hailey Baptiste do not take part in the women's competition.However, Polish fans have someone to support - they are fighting for the best possible result, among others.defending champion Iga Świątek, as well as Hubert Hurkacz and Kamil Majchrzak.Maja Chwalińska, the French Open finalist, said goodbye to the tournament in the first round.</desc>
   </programme>
   <programme channel="Polsat.Sport.Fight.HD.pl" start="20260706090000 -0500" stop="20260706110000 -0500">
     <title lang="pl">Tennis: Wimbledon Tournament - 4th round singles match</title>
@@ -2320,5 +2194,73 @@
   </programme>
   <programme channel="Polsat.Sport.Fight.HD.pl" start="20260706222500 -0500" stop="20260707000000 -0500">
     <title lang="pl">Boxing: Polsat Boxing Promotions 7 in Lublin - super middleweight: Osleys Iglesias - Isaac Chilemba 27/05/2022</title>
+  </programme>
+  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260707000000 -0500" stop="20260707022500 -0500">
+    <title lang="pl">Combat sports: UFC 324 - fight: Justin Gaethje - Paddy Pimblett 25/01/2026</title>
+  </programme>
+  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260707022500 -0500" stop="20260707025000 -0500">
+    <title lang="pl">Athletes</title>
+    <desc lang="pl">Atleci is a magazine for everyone who loves sport.The program includes reports from events, conversations with stars, as well as practical advice, interesting people and unique places on the sports map of Poland.</desc>
+    <category lang="pl">magazyn sportowy</category>
+  </programme>
+  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260707025000 -0500" stop="20260707041000 -0500">
+    <title lang="pl">Combat sports: DWM 8 in Świdwin - fight: Krystian Wiśniewski - Rafał Lewon 28/03/2026</title>
+  </programme>
+  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260707041000 -0500" stop="20260707051500 -0500">
+    <title lang="pl">From the ESPN archives</title>
+    <sub-title lang="pl">Gala w Quezon City: Muhammad Ali - Joe Frazier III 01.10.1975</sub-title>
+    <desc lang="pl">A reminder of the fights that aroused exceptional emotions in the boxing world.Viewers will once again see the clashes of the biggest stars of Polish and foreign boxing.</desc>
+    <category lang="pl">magazyn bokserski</category>
+  </programme>
+  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260707051500 -0500" stop="20260707075500 -0500">
+    <title lang="pl">Boxing: Fight for the Polish championship in Sopot - heavyweight: Kacper Meyna - Mariusz Wach 12/04/2025</title>
+  </programme>
+  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260707075500 -0500" stop="20260707100500 -0500">
+    <title lang="pl">Combat sports: FEN 54 in Piła - fight: Gracjan Wyroślak - Maksim Grabovich 17/05/2024</title>
+  </programme>
+  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260707100500 -0500" stop="20260707105500 -0500">
+    <title lang="pl">K.O.TV Classics</title>
+    <desc lang="pl">A reminder and analysis of the greatest boxing fights in the history of this sport.It presents, among others:memorable fights.</desc>
+    <category lang="pl">magazyn bokserski</category>
+    <episode-num system="onscreen">E24</episode-num>
+  </programme>
+  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260707105500 -0500" stop="20260707121500 -0500">
+    <title lang="pl">Boxing: Babilon Boxing Show in Nowy Dwór Mazowiecki - super middleweight: Łukasz Stanioch - Robert Talarek 24/02/2023</title>
+  </programme>
+  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260707121500 -0500" stop="20260707130000 -0500">
+    <title lang="pl">Combat sports: UFC Fight Night - fight: Sean Strickland - Anthony Hernandez 22/02/2026</title>
+  </programme>
+  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260707130000 -0500" stop="20260707133000 -0500">
+    <title lang="pl">Naval Shooting Range</title>
+    <sub-title lang="pl">Adam Kszczot</sub-title>
+    <desc lang="pl">The program introduces viewers to the secrets of shooting.Types of weapons will be characterized and issues related to, among others, discussed:with hunting.Polish sports stars will be subjected to shooting tests.</desc>
+    <date>2021</date>
+    <category lang="pl">magazyn sportowy</category>
+    <episode-num system="onscreen">S2E9</episode-num>
+  </programme>
+  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260707133000 -0500" stop="20260707135500 -0500">
+    <title lang="pl">Naval Shooting Range</title>
+    <sub-title lang="pl">Tomasz Majewski</sub-title>
+    <desc lang="pl">The program introduces viewers to the secrets of shooting.Types of weapons will be characterized and issues related to, among others, discussed:with hunting.Polish sports stars will be subjected to shooting tests.</desc>
+    <date>2021</date>
+    <category lang="pl">magazyn sportowy</category>
+    <episode-num system="onscreen">S2E10</episode-num>
+  </programme>
+  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260707135500 -0500" stop="20260707161500 -0500">
+    <title lang="pl">Combat sports: Babilon MMA 51 in Ciechanów - heavyweight: Szymon Kołecki - Przemysław Mysiala 14/03/2025</title>
+  </programme>
+  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260707161500 -0500" stop="20260707185000 -0500">
+    <title lang="pl">Boxing: Rocky Boxing Night 19 in Karlino - welterweight: Jan Lodzik - Mateusz Polski 2 08/06/2024</title>
+  </programme>
+  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260707185000 -0500" stop="20260707191500 -0500">
+    <title lang="pl">Athletes</title>
+    <desc lang="pl">Atleci is a magazine for everyone who loves sport.The program includes reports from events, conversations with stars, as well as practical advice, interesting people and unique places on the sports map of Poland.</desc>
+    <category lang="pl">magazyn sportowy</category>
+  </programme>
+  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260707191500 -0500" stop="20260707215000 -0500">
+    <title lang="pl">Combat sports: FEN 55 in Ostróda - fight: Mansur Abdurzakov - Michał Pietrzak 15/06/2024</title>
+  </programme>
+  <programme channel="Polsat.Sport.Fight.HD.pl" start="20260707215000 -0500" stop="20260708000000 -0500">
+    <title lang="pl">Combat sports: Babilon Boxing Show &amp; K1 in Nowy Dwór Mazowiecki - fight: Jan Lodzik - Juanmi Martinez 23/02/2024</title>
   </programme>
   </tv>
